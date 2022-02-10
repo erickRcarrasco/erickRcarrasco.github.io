@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html lang="es">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta http-equiv="X-UA-Compatible" content="IE=9; IE=8; IE=7; IE=edge" />
+    <meta http-equiv="Expires" content="0">
+    <meta http-equiv="Last-Modified" content="0">
+    <meta http-equiv="Cache-Control" content="no-cache, mustrevalidate">
+    <meta http-equiv="Pragma" content="no-cache">
+    <title>Cuestionario Italika</title>
+    <link rel="stylesheet" type="text/css" href="css/estilos.css">
+    <link rel="stylesheet" type="text/css" href="css/iframe.css">
+</head>
+
+<body>
+
+    <div class="page">
+        <!-- Contenido -->
+        <div class="divInicio">
+            <div class="divFondoAzul">
+                <div class="logoIndex"><img src="img/SVG/img_logoItalika.svg" alt=""></div>
+                <h1><b>¡Descubre cuál es tu <br> moto ideal!</b></h1>
+                <div class="imagenInicio pRelative">
+                    <img src="img/PNG/img_motosInicio2.png" alt="motosInicio" class="motosInicio">
+                    <div class="w80"><a href="#" name="none" onclick="preguntaUno()" class="btn btnInicio  animated infinite pulse">¡Comencemos!</a></div>
+                </div>
+
+            </div>
+
+        </div>
+        <!-- Fin conSecc -->
+
+        <!-- Footer -->
+        <div class="gradient"></div>
+        <div class="footerInicio pRelative">
+            <div class="divLineaAzul"><img src="img/SVG/border-top.svg" alt=""></div>
+            <div class="copyFooter">#ElMotorDeTuVida</div>
+        </div>
+    </div>
+    <div id="overLoading" class="overlayLoading2">
+          <img src="img/gif_moto_loading_1.gif" alt="">
+    </div>
+    <!-- Fin page -->
+
+</body>
+
+</html>
+<script>
+
+</script>
+<script type="text/javascript" src="js/jquery-1.12.4.min.js"></script>
+<!--Select -->
+<script type="text/javascript" src="js/jquery-ui.js"></script>
+<script src="js/jquery.simplemodal.js"></script>
+<!--Unpload -->
+
+
+<script type="text/javascript">
+    function preguntaUno(){
+        var overLoading = document.getElementById("overLoading");
+        overLoading.setAttribute("class", "overlayLoading2 active");
+        setTimeout(function() {
+            window.location.replace("preguntaUno.html");
+        }, 250);
+    }
+</script>

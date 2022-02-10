@@ -1,0 +1,47 @@
+.logoIndex {
+  width: 80% !important;
+  margin: 0 auto !important;
+}
+.iframeWrapper iframe{
+  width: 100%;
+  height: 850px;
+  margin-top: -110px;
+}
+.cuestionarioHead {
+  background-color: #fff;
+}
+.motoFlexWrapper {
+  background-color: #fff;
+  margin-top: -100px;
+  display: flex;
+  justify-content: center;
+  position: relative;
+}
+.motoFlexWrapper .lineaCurva{
+  margin-top: 0px;
+}
+.motoFlexWrapper .motosFlex{
+  margin-top: 160px;
+}
+.divBtnRegresar {
+  bottom: 300px;
+}
+.copyHeader {
+  display: flex;
+  margin: 0px auto;
+  margin-top: 30px;
+  width: 70%;
+  align-items: center;
+}
+.textoPregunta.textoHeader {
+    margin-top: -100px;
+    font-family: "Avenir_Next_Regular",sans-serif;
+    font-size: 3.5em;
+
+}
+.copyHeader b{ font-family: "AvenirNextLTPro-Medium"}
+.copyHeader > div:nth-child(1){font-size: 1.2em;font-family: "FjallaOne-Regular";    font-style: initial;}
+.copyHeader > div:nth-child(2){border-right: 2px solid #fff;margin: 20px; height: 80px;}
+.copyHeader > div:nth-child(3){ font-size: .6em;text-align: left;font-weight: 400;}
+.copyHeader > div:nth-child(3) span{
+}

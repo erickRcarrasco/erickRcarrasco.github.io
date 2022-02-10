@@ -1,0 +1,84 @@
+<!DOCTYPE html>
+<html lang="es">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta http-equiv="X-UA-Compatible" content="IE=9; IE=8; IE=7; IE=edge" />
+    <title>Cuestionario Italika</title>
+    <meta http-equiv="Expires" content="0">
+    <meta http-equiv="Last-Modified" content="0">
+    <meta http-equiv="Cache-Control" content="no-cache, mustrevalidate">
+    <meta http-equiv="Pragma" content="no-cache">
+    <link rel="stylesheet" href="css/owl.carousel.css">
+    <link rel="stylesheet" type="text/css" href="css/estilos.css">
+</head>
+
+<body>
+
+    <div class="page contCuetionario">
+        <div class="cuestionarioHead">
+            <div class="numeroPregunta"><b>1</b></div>
+            <div class="textoPregunta">
+                <span>¿Con qué camino</span>
+                <span>te identifícas?</span>
+            </div>
+            <div class="btnIrInicio">
+                <a href="#" onclick="inicio()"> <img src="img/SVG/ico_inicio.svg" alt="" />Ir al inicio</a>
+            </div>
+            
+            <div onclick="inicio()" class="divBtnRegresar">
+                <a href="#"  class="btnRegresar"><span> < Regresar</span></a>
+           </div>
+        </div>
+        <div class="cuestionarioContenido">
+            <div class="divRespuestasCuestionario">
+                <div class="respuestaCuestioario values-slider">
+                    <div id="owl-carousel2" class="owl-carousel owl-theme">
+                        <a href="#" class="item respCuest btnItem" onclick="redirecciona('Ciudad')" data-hash="uno">
+                            <div class="imgOpcional2">
+                                <div class="imgBtnModal">Ciudad</div>
+                            </div>
+                            <img class="imgResp" src="img/PNG/img_perfilador/P1/img_ciudad.png">
+                            <img class="imgOpcional" src="img/SVG/img_opciones.svg" alt="">
+                        </a>
+                        <a  href="#" class="item respCuest btnItem" onclick="redirecciona('Carretera')" data-hash="dos">
+                            <img class="imgResp" src="img/PNG/img_perfilador/P1/img_carretera.png">
+                            <img class="imgOpcional" src="img/SVG/img_opciones.svg" alt="">
+                            <div class="imgOpcional2">
+                                <div class="imgBtnModal">Carretera</div>
+                            </div>
+                        </a>
+                        <a  href="#" class="item respCuest btnItem" onclick="redirecciona('Terracería')" data-hash="tres">
+                            <img class="imgResp" src="img/PNG/img_perfilador/P1/img_terraceria.png">
+                            <img class="imgOpcional" src="img/SVG/img_opciones.svg" alt="">
+                            <div class="imgOpcional2">
+                                <div class="imgBtnModal">Terraceria</div>
+                            </div>
+                        </a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="cuestionarioFootter"></div>
+    <div class="theCiudad">
+      <div class="deslizar"></div>
+    </div>
+    <!-- Fin page -->
+
+</body>
+    <div id="overLoading" class="overlayLoading2">
+          <img src="img/gif_moto_loading_1.gif" alt="">
+    </div>
+
+</html>
+
+<script type="text/javascript" src="js/jquery-1.12.4.min.js"></script>
+<script type="text/javascript" src="js/jquery-ui.js"></script>
+<script src="js/jquery.simplemodal.js"></script>
+
+<script src="js/owl.carousel.js"></script>
+<!-- Slider -->
+<script type="text/javascript" src="js/funciones.js"></script>
+<script type="text/javascript" src="js/preguntaUno.js"></script>

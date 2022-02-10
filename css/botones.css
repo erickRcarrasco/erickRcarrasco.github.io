@@ -1,0 +1,215 @@
+
+a {
+    text-decoration: none!important;
+    background-color: transparent;
+    position: relative;
+    width: 100%;
+    cursor: none;
+}
+.btnContinuar {
+    color: #ffffff;
+    font-size: 51px;
+    font-family: 'Avenir_Next_Regular';
+    width: 502px;
+    height: 140px;
+    background: rgb(236,148,47);
+    background: linear-gradient(90deg, rgba(236,148,47,1) 0%, rgba(238,156,55,0.9724264705882353) 36%, rgba(244,178,77,0.8491771708683473) 63%, rgba(251,203,102,1) 100%);
+    border-top-left-radius: 65px;
+    border-bottom-left-radius: 65px;
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+    padding-right: 37px;
+    position: relative;
+    transition: all 0.4s ease-in;
+    outline: none;
+}
+
+
+.btnContinuar span,
+.btnRegresar span,
+.btnIrInicio a span,
+.btnMasInfo a span,
+.w80 a span,
+.btnQuiero span,
+.overlayClose span {
+    position: relative;
+}
+
+.btnItem{position: relative;}
+.btnItem2 {outline: 0;}
+.btnItem:before {
+    content: '';
+  background-color: #fff;
+  border-radius: 80px;
+  display: block;
+  position: absolute;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  -webkit-transform: scale(0.001, 0.001);
+  transform: scale(0.001, 0.001);
+}
+
+.btnContinuar:before {
+  content: '';
+  background-color: #fff;
+  border-top-left-radius: 65px;
+  border-bottom-left-radius: 65px;
+  display: block;
+  position: absolute;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  -webkit-transform: scale(0.001, 0.001);
+  transform: scale(0.001, 0.001);
+}
+.btnRegresar:before {
+  content: '';
+  background-color: #fff;
+  border-top-right-radius: 55px;
+  border-bottom-right-radius: 55px;
+  display: block;
+  position: absolute;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  -webkit-transform: scale(0.001, 0.001);
+  transform: scale(0.001, 0.001);
+}
+
+.btnIrInicio a:before {
+    content: '';
+  background-color: #fff;
+    border-radius: 50%;
+  display: block;
+  position: absolute;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  -webkit-transform: scale(0.001, 0.001);
+  transform: scale(0.001, 0.001);
+}
+
+.btnMasInfo a:before {
+content: '';
+    background-color: #fff;
+    border-radius: 80px;
+    display: block;
+    position: absolute;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    -webkit-transform: scale(0.001, 0.001);
+    transform: scale(0.001, 0.001);
+}
+.w80 a:before{
+  content: '';
+    background-color: #fff;
+    border-radius: 80px;
+    display: block;
+    position: absolute;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    -webkit-transform: scale(0.001, 0.001);
+    transform: scale(0.001, 0.001);
+}
+
+
+.btnQuiero:before {
+  content: '';
+  height: 145px;
+  background-color: #fff;
+  border-top-left-radius: 100px;
+  border-bottom-left-radius: 100px;
+  display: block;
+  position: absolute;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  -webkit-transform: scale(0.001, 0.001);
+  transform: scale(0.001, 0.001);
+}
+
+.overlayClose:before {
+  content: '';
+  /* height: 145px; */
+  background-color: #fff;
+  border-top-left-radius: 55px;
+  border-bottom-left-radius: 55px;
+  display: block;
+  position: absolute;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  -webkit-transform: scale(0.001, 0.001);
+  transform: scale(0.001, 0.001);
+}
+
+.btnContinuar:focus,
+.btnRegresar:focus,
+.btnIrInicio a:focus,
+.btnMasInfo a:focus,
+.w80 a:focus,
+.btnQuiero:focus,
+.overlayClose:focus {
+    outline: 0;
+}
+.btnContinuar:focus:before,
+.btnRegresar:focus:before,
+.btnIrInicio a:focus:before,
+.btnItem2:before,
+.btnMasInfo a:focus:before,
+.w80 a:focus:before,
+.btnQuiero:focus:before,
+.overlayClose:focus:before {
+    -webkit-animation: Click_Effect 0.8s ease-out;
+    animation: Click_Effect 0.8s ease-out;
+}
+@-webkit-keyframes Click_Effect {
+    50% {
+      -webkit-transform: scale(1.5, 1.5);
+              transform: scale(1.5, 1.5);
+      opacity: 0;
+    }
+    99% {
+      -webkit-transform: scale(0.001, 0.001);
+              transform: scale(0.001, 0.001);
+      opacity: 0;
+    }
+    100% {
+      -webkit-transform: scale(0.001, 0.001);
+              transform: scale(0.001, 0.001);
+      opacity: 1;
+    }
+}
+@keyframes Click_Effect {
+    50% {
+      -webkit-transform: scale(1.5, 1.5);
+              transform: scale(1.5, 1.5);
+      opacity: 0;
+    }
+    99% {
+      -webkit-transform: scale(0.001, 0.001);
+              transform: scale(0.001, 0.001);
+      opacity: 0;
+    }
+    100% {
+      -webkit-transform: scale(0.001, 0.001);
+              transform: scale(0.001, 0.001);
+      opacity: 1;
+    }
+}
+
+.btnItem {
+    display: block;
+}

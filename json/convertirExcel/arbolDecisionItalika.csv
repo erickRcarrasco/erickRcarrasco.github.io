@@ -1,0 +1,148 @@
+id,camino,importancia,uso,ModeloResumido,posicion,modelo,SKU,precio,precio descuento,semanalidad
+1,ciudad,Estilo,Transporte,Vitalia,Secundarios,Vitalia 150,34004306,33332,26999,360
+2,ciudad,Estilo,Transporte,WS,Secundarios,WS150 Sport,34004274,32221,24999,360
+3,ciudad,Estilo,Transporte,Modena,Secundarios,Modena 150,34004266,35554,27990,390
+4,ciudad,Estilo,Transporte,V200,Secundarios,V200,34002538,61110,49999,589
+5,ciudad,Estilo,Trabajo,FT-TS,Principal,FT150TS,34004021,25554,19999,238
+6,ciudad,Estilo,Trabajo,DM,Secundarios,DM200,34004256,36666,28499,320
+7,ciudad,Estilo,Trabajo,FT-TS,Secundarios,FT200 TS,34003375,37554,29999,341
+8,ciudad,Estilo,Trabajo,DM,Secundarios,DM200,34004256,36666,28499,320
+9,ciudad,Estilo,Diversion,Linea Z,Principal,200Z,34003372,48443,35999,393
+10,ciudad,Estilo,Diversion,Vort-x,Secundarios,VORTX 200,34002535,60554,49999,571
+11,ciudad,Estilo,Diversion,Sptfire,Secundarios,SPTFIRE200,34004257,36332,26999,315
+12,ciudad,Estilo,Diversion,V200,Secundarios,V200,34002538,61110,49999,589
+13,ciudad,Estilo,Deporte,Vort-x,Principal,VORTX 300,34002544,72221,59999,673
+14,ciudad,Estilo,Deporte,RT,Secundarios,RT200,34004271,50666,39999,500
+15,ciudad,Estilo,Deporte,RT,Secundarios,RT250,34004323,60554,49999,624
+16,ciudad,Estilo,Deporte,Vort-x,Secundarios,VORTX 200,34002535,60554,49999,571
+17,ciudad,Estilo,Socializar,Linea Z,Principal,250Z,34004226,55554,42999,475
+18,ciudad,Estilo,Socializar,Vort-x,Secundarios,VORTX 200,34002535,60554,49999,571
+19,ciudad,Estilo,Socializar,Sptfire,Secundarios,SPTFIRE200,34004257,36332,26999,315
+20,ciudad,Estilo,Socializar,Linea Z,Secundarios,200Z,34003372,48443,35999,393
+21,ciudad,velocidad,Transporte,RT,Principal,RT250,34004323,60554,49999,624
+22,ciudad,velocidad,Transporte,VORT-X,Secundarios,VORTX 200,34002535,60554,49999,571
+23,ciudad,velocidad,Transporte,RT,Secundarios,RT200,34004271,50666,39999,500
+24,ciudad,velocidad,Transporte,VORT-X,Secundarios,VORTX 300,34002544,72221,59999,673
+25,ciudad,velocidad,Trabajo,FT,Principal,FT250 TS,34002212,42777,34999,405
+26,ciudad,velocidad,Trabajo,LINEA Z,Secundarios,250Z,34004226,55554,42999,475
+27,ciudad,velocidad,Trabajo,FT,Secundarios,FT150 Heavy Duty,34004307,33999,26999,352
+28,ciudad,velocidad,Trabajo,FT,Secundarios,FT200,34003375,37554,29999,341
+29,ciudad,velocidad,Diversion,RT,Principal,RT250,34004323,60554,49999,624
+30,ciudad,velocidad,Diversion,VORT-X,Secundarios,VORTX 200,34002535,60554,49999,571
+31,ciudad,velocidad,Diversion,LINEA Z,Secundarios,200Z,34003372,48443,35999,393
+32,ciudad,velocidad,Diversion,RT,Secundarios,RT200,34004271,50666,39999,500
+33,ciudad,velocidad,Deporte,VORT-X,Principal,VORTX 300,34002544,72221,59999,673
+34,ciudad,velocidad,Deporte,RT,Secundarios,RT 250,34004323,60554,49999,624
+35,ciudad,velocidad,Deporte,VORT-X,Secundarios,VORTX 200,34002535,60554,49999,571
+36,ciudad,velocidad,Deporte,RT,Secundarios,RT200,34004271,50666,39999,500
+37,ciudad,velocidad,Socializar,RT,Principal,RT200,34004271,50666,39999,500
+38,ciudad,velocidad,Socializar,LINEA Z,Secundarios,150Z,34003376,38888,28999,311
+39,ciudad,velocidad,Socializar,VORT-X,Secundarios,VORTX 200,34002535,60554,49999,571
+40,ciudad,velocidad,Socializar,LINEA Z,Secundarios,200Z,34003372,48443,35999,393
+41,ciudad,economía,Transporte,D,Principal,D150,34004255,25443,19999,242
+42,ciudad,economía,Transporte,DS,Secundarios,DS150,34004261,29777,22499,291
+43,ciudad,economía,Transporte,FT,Secundarios,FT150 TS,34004021,25554,19999,238
+44,ciudad,economía,Transporte,DS,Secundarios,DS125,34004263,23888,18999,260
+45,ciudad,economía,Trabajo,FT,Principal,FT150,34003371,22221,15999,215
+46,ciudad,economía,Trabajo,AT,Secundarios,AT110,34004276,22221,14999,190
+47,ciudad,economía,Trabajo,FT,Secundarios,FT125,34002534,19999,14999,193
+48,ciudad,economía,Trabajo,AT,Secundarios,AT110RT,34004275,24443,17999,226
+49,ciudad,economía,Diversion,D,Principal,D150,34004255,25443,19999,242
+50,ciudad,economía,Diversion,DS,Secundarios,DS125,34004263,23888,18999,260
+51,ciudad,economía,Diversion,Voltium Bike,Secundarios,Voltium Bike,34004282,21666,16999,225
+52,ciudad,economía,Diversion,DS,Secundarios,DS150,34004261,29777,22499,291
+53,ciudad,economía,Socializar,RC,Principal,RC125,34004281,27221,21999,264
+54,ciudad,economía,Socializar,Voltium Bike,Secundarios,Voltium Bike,34004282,21666,16999,225
+55,ciudad,economía,Socializar,DS,Secundarios,DS150,34004261,29777,22499,291
+56,ciudad,economía,Socializar,DS,Secundarios,DS125,34004263,23888,18999,260
+57,Terracería,Estilo,Transporte,WS,Principal,WS175 Sport,34003341,31199,25169,360
+58,Terracería,Estilo,Transporte,DM,Secundarios,DM200,34004256,36666,28499,320
+59,Terracería,Estilo,Transporte,V200,Secundarios,V200,34002538,61110,49999,589
+60,Terracería,Estilo,Transporte,WS,Secundarios,WS150 Sport,34004274,32221,24999,360
+61,Terracería,Estilo,Trabajo,DM,Principal,DM200,34004256,36666,28499,320
+62,Terracería,Estilo,Trabajo,ATV,Secundarios,ATV,34004227,47777,37999,467
+63,Terracería,Estilo,Diversion,WS,Principal,WS150 Sport,34004274,32221,24999,360
+64,Terracería,Estilo,Diversion,ATV,Secundarios,ATV,34004227,47777,37999,467
+65,Terracería,Estilo,Diversion,DM,Secundarios,DM200,34004256,36666,28499,320
+66,Terracería,Estilo,Diversion,WS,Secundarios,WS175 Sport,34003341,31199,25169,360
+67,Terracería,Estilo,Deporte,DM,Principal,DM250,34004283,43888,35999,490
+68,Terracería,Estilo,Deporte,ATV,Secundarios,ATV,34004227,47777,37999,467
+69,Terracería,Estilo,Deporte,WS,Secundarios,WS175 Sport,34003341,31199,25169,360
+70,Terracería,Estilo,Socializar,ATV,Principal,ATV,34004227,47777,37999,467
+71,Terracería,Estilo,Socializar,WS,Secundarios,WS175 Sport,34003341,31199,25169,360
+72,Terracería,Estilo,Socializar,DM,Secundarios,DM200,34004256,36666,28499,320
+73,Terracería,velocidad,Transporte,DM,Principal,DM200,34004256,36666,28499,320
+74,Terracería,velocidad,Transporte,WS,Secundarios,WS175 Sport,34003341,31199,25169,360
+75,Terracería,velocidad,Transporte,DM,Secundarios,DM250,34004283,43888,35999,490
+76,Terracería,velocidad,Transporte,WS,Secundarios,WS150 Sport,34004274,32221,24999,360
+77,Terracería,velocidad,Trabajo,DM,Principal,DM200,34004256,36666,28499,320
+78,Terracería,velocidad,Trabajo,DM,Secundarios,DM250,34004283,43888,35999,490
+79,Terracería,velocidad,Trabajo,WS,Secundarios,WS150 Sport,34004274,32221,24999,360
+80,Terracería,velocidad,Diversion,DM,Principal,DM200,34004256,36666,28499,320
+81,Terracería,velocidad,Diversion,WS,Secundarios,WS175 Sport,34003341,31199,25169,360
+82,Terracería,velocidad,Diversion,DM,Secundarios,DM250,34004283,43888,35999,490
+83,Terracería,velocidad,Diversion,WS,Secundarios,WS150 Sport,34004274,32221,24999,360
+84,Terracería,velocidad,Deporte,DM,Principal,DM200,34004256,36666,28499,320
+85,Terracería,velocidad,Deporte,WS,Secundarios,WS175 Sport,34003341,31199,25169,360
+86,Terracería,velocidad,Deporte,DM,Secundarios,DM250,34004283,43888,35999,490
+87,Terracería,velocidad,Deporte,WS,Secundarios,WS150 Sport,34004274,32221,24999,360
+88,Terracería,velocidad,Socializar,DM,Principal,DM200,34004256,36666,28499,320
+89,Terracería,velocidad,Socializar,WS,Secundarios,WS175 Sport,34003341,31199,25169,360
+90,Terracería,velocidad,Socializar,DM,Secundarios,DM250,34004283,43888,35999,490
+91,Terracería,velocidad,Socializar,WS,Secundarios,WS150 Sport,34004274,32221,24999,360
+92,Terracería,economía,Transporte,W,Principal,W150,34004268,29999,22999,279
+93,Terracería,economía,Transporte,V200,Secundarios,V200,34002538,61110,49999,589
+94,Terracería,economía,Transporte,WS,Secundarios,WS150 Sport,34004274,32221,24999,360
+95,Terracería,economía,Transporte,WS,Secundarios,WS150 Sport,34004274,32221,24999,360
+96,Terracería,economía,Diversion,W,Principal,W150,34004268,29999,22999,279
+97,Terracería,economía,Diversion,V200,Secundarios,V200,34002538,61110,49999,589
+98,Terracería,economía,Diversion,ATV,Secundarios,ATV,34004227,47777,37999,467
+99,Terracería,economía,Diversion,WS,Secundarios,WS150 Sport,34004274,32221,24999,360
+100,Terracería,economía,Deporte,W,Principal,W150,34004268,29999,22999,279
+101,Terracería,economía,Deporte,ATV,Secundarios,ATV,34004227,47777,37999,467
+102,Terracería,economía,Deporte,WS,Secundarios,WS150 Sport,34004274,32221,24999,360
+103,Terracería,economía,Deporte,WS,Secundarios,WS150 Sport,34004274,32221,24999,360
+104,Terracería,economía,Socializar,W,Principal,W150,34004268,29999,22999,279
+105,Terracería,economía,Socializar,ATV,Secundarios,ATV,34004227,47777,37999,467
+106,Terracería,economía,Socializar,WS,Secundarios,WS150 Sport,34004274,32221,24999,360
+107,Terracería,economía,Socializar,WS,Secundarios,WS150 Sport,34004274,32221,24999,360
+108,Carretera,Estilo,Transporte,V200,Principal,V200,34002538,61110,49999,589
+109,Carretera,Estilo,Transporte,TC,Secundarios,TC250,34004272,50666,39999,535
+110,Carretera,Estilo,Transporte,AT-RT,Secundarios,AT125RT,34004269,26110,19999,290
+111,Carretera,Estilo,Transporte,AT-RT,Secundarios,AT110RT,34004275,24443,17999,226
+112,Carretera,Estilo,Trabajo,FT,Principal,FT200,34003375,37554,29999,341
+113,Carretera,Estilo,Trabajo,LINEA Z,Secundarios,250Z,34004226,55554,42999,475
+114,Carretera,Estilo,Trabajo,FT,Secundarios,FT250,34002212,42777,34999,405
+115,Carretera,Estilo,Trabajo,LINEA Z,Secundarios,200Z,34003372,48443,35999,393
+116,Carretera,Estilo,Diversion,LINEA Z,Principal,250Z,34004226,55554,42999,475
+117,Carretera,Estilo,Diversion,VORT-X,Secundarios,VORTX 200,34002535,60554,49999,571
+118,Carretera,Estilo,Diversion,SPTFIRE,Secundarios,SPTFIRE200,34004257,36332,26999,315
+119,Carretera,Estilo,Diversion,RT,Secundarios,RT250,34004323,60554,49999,624
+120,Carretera,Estilo,Socializar,TC,Principal,TC250,34004272,50666,39999,535
+121,Carretera,Estilo,Socializar,VORT-X,Secundarios,VORTX 200,34002535,60554,49999,571
+122,Carretera,Estilo,Socializar,LINEA Z,Secundarios,200Z,34003372,48443,35999,393
+123,Carretera,Estilo,Socializar,SPTFIRE,Secundarios,SPTFIRE200,34004257,36332,26999,315
+124,Carretera,velocidad,Transporte,VORT-X,Principal,VORTX 200,34002535,60554,49999,571
+125,Carretera,velocidad,Transporte,RT,Secundarios,RT250,34004323,60554,49999,624
+126,Carretera,velocidad,Transporte,VORT-X,Secundarios,VORTX 300,34002544,72221,59999,673
+127,Carretera,velocidad,Transporte,RT,Secundarios,RT200,34004271,50666,39999,500
+128,Carretera,velocidad,Diversion,RT,Principal,RT250,34004323,60554,49999,624
+129,Carretera,velocidad,Diversion,VORT-X,Secundarios,VORTX 200,34002535,60554,49999,571
+130,Carretera,velocidad,Diversion,RT,Secundarios,RT200,34004271,50666,39999,500
+131,Carretera,velocidad,Diversion,VORT-X,Secundarios,VORTX 300,34002544,72221,59999,673
+132,Carretera,velocidad,Deporte,VORT-X,Principal,VORTX 300,34002544,72221,59999,673
+133,Carretera,velocidad,Deporte,RT,Secundarios,RT250,34004323,60554,49999,624
+134,Carretera,velocidad,Deporte,VORT-X,Secundarios,VORTX 200,34002535,60554,49999,571
+135,Carretera,velocidad,Deporte,RT,Secundarios,RT200,34004271,50666,39999,500
+136,Carretera,velocidad,Socializar,RT,Principal,RT250,34004323,60554,49999,624
+137,Carretera,velocidad,Socializar,VORT-X,Secundarios,VORTX 200,34002535,60554,49999,571
+138,Carretera,velocidad,Socializar,VORT-X,Secundarios,VORTX 300,34002544,72221,59999,673
+139,Carretera,velocidad,Socializar,RT,Secundarios,RT200,34004271,50666,39999,500
+140,Carretera,economía,Transporte,FT,Principal,FT150TS,34004021,25554,19999,238
+141,Carretera,economía,Transporte,AT,Secundarios,AT100,34004276,22221,14999,190
+142,Carretera,economía,Trabajo,FT,Principal,FT150G,34002533,25443,19999,280
+143,Carretera,economía,Trabajo,AT,Secundarios,AT125RT,34004269,26110,19999,290
+144,Carretera,economía,Diversion,RC,Principal,RC200,34003373,36999,28999,321
+145,Carretera,economía,Diversion,SPTFIRE,Secundarios,SPTFIRE200,34004257,36332,26999,315
+146,Carretera,economía,Socializar,RC,Principal,RC200,34003373,36999,28999,321
+147,Carretera,economía,Socializar,SPTFIRE,Secundarios,SPTFIRE200,34004257,36332,26999,315

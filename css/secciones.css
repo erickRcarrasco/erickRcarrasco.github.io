@@ -1,0 +1,1264 @@
+.divInicio {
+  background-color: #1f337c;
+  width: 100%;
+  margin: 0 auto;
+  padding-bottom: 761px;
+}
+
+.divFondoAzul {
+  text-align: center;
+  color: #ffffff;
+  padding: 150px 20px 40px 20px;
+  box-sizing: border-box;
+  max-width: 1080px;
+  margin: 0 auto;
+  background-image: url("../img/SVG/img_ciudadInicio.svg");
+  background-repeat: no-repeat;
+  width: 100%;
+  background-size: 100%;
+  height: 979px;
+}
+
+.divFondoAzul h2 {
+  font-size: 60px;
+  font-style: italic;
+}
+
+.divFondoAzul h1 {
+  font-family: sans-serif;
+  font-size: 72px;
+  font-style: italic;
+  margin: 130px 0 -202px 0;
+}
+
+.divFondoAzul > div {
+  margin: 10px auto;
+  width: 100%;
+}
+
+.w80 {
+  width: 80%;
+}
+
+.btnInicio {
+  background-image: url("../img/SVG/btn_comenzar.svg");
+  background-repeat: no-repeat;
+  background-size: 100%;
+  padding: 36px;
+  display: block;
+  color: #ffffff;
+  font-size: 55px;
+}
+
+.divLogo {
+  width: 33%;
+  position: absolute;
+  bottom: -70px;
+  left: 0;
+  right: 0;
+  margin: 0 auto;
+}
+
+.imagenInicio {
+  height: 900px;
+}
+
+.pRelative {
+  position: relative;
+}
+
+.imagenInicio .motosInicio {
+  width: 80%;
+  margin: 0 auto;
+  position: absolute;
+  bottom: 203px;
+  left: 0;
+  right: 0;
+  z-index: 9;
+}
+
+.imagenInicio .w80 {
+  font-family: sans-serif;
+  font-weight: 100;
+  position: absolute;
+  bottom: 95px;
+  left: 0;
+  right: 0;
+  margin: 0 auto;
+  outline: none;
+}
+
+.divLineaAzul {
+  width: 100%;
+  position: absolute;
+  top: -130px;
+  left: -1px;
+  transform: rotateX(-35deg);
+}
+
+.divLineaAzul img {
+  width: 100%;
+  object-fit: cover;
+}
+
+/*3Bloques*/
+
+.div3Bloques {
+  width: 100%;
+}
+
+.div3Bloques .bloque {
+  color: #ffffff;
+  text-align: center;
+  font-style: italic;
+}
+
+.div3Bloques .bloque1 {
+  font-size: 25px;
+  background-color: #05468d;
+  font-family: "Avenir_Next_Regular";
+  padding: 300px 10px 100px 10px;
+}
+
+.div3Bloques .bloque2 {
+  font-size: 130px;
+  background-color: #0d3068;
+  border-top: 30px solid #00205c;
+  border-bottom: 30px solid #00205c;
+  font-family: "Avenir_Next_Regular";
+  padding: 123px 10px;
+}
+
+.bold {
+  font-family: "Avenir_Next_Bold";
+}
+
+.bloque2 img {
+  width: 160px;
+  margin: 0 auto;
+  display: block;
+  margin-bottom: 10px;
+}
+
+.div3Bloques .bloque3 {
+  background-color: #023580;
+  font-size: 130px;
+  padding: 238px 10px;
+}
+
+/*Resultado*/
+
+.divHeader {
+  width: 100%;
+  background-image: url(../img/PNG/img_fdoResultado-min.png);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-color: #182f65;
+  height: 620px;
+  background-blend-mode: multiply;
+}
+
+/* .TituloModeloItalika {
+    font-size: 75px;
+    color: #ffffff;
+    text-align: center;
+    padding: 50px;
+} */
+
+.divHeader .imgItalika {
+  width: 63%;
+  margin: 0 auto;
+  position: absolute;
+  top: 125px;
+  left: 0;
+  right: 0;
+  z-index: 9;
+}
+
+.imgItalika img {
+  width: 80%;
+  margin: 20px auto;
+}
+
+.divQuiero {
+  width: 30%;
+  position: absolute;
+  right: 0px;
+  bottom: 40%;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: flex-end;
+  z-index: 10;
+}
+
+.divQuiero .divBtnQuiero {
+  width: 333px;
+  outline: none;
+}
+
+.btnQuiero {
+  padding: 20px 0px 0px 30px;
+  display: block;
+  color: #ffffff;
+  font-size: 48px;
+  text-align: center;
+  width: 331px;
+  height: 145px;
+  margin: 0 auto;
+  background: linear-gradient(
+    90deg,
+    rgba(159, 0, 0, 1) 0%,
+    rgba(191, 0, 0, 1) 22%,
+    rgba(227, 0, 0, 1) 63%
+  );
+  border-top-left-radius: 100px;
+  border-bottom-left-radius: 100px;
+  z-index: 10;
+}
+
+.btnQuiero div {
+  font-size: 16px;
+  font-family: "Avenir_Next_Regular";
+  width: 100%;
+  padding-top: 10px;
+}
+
+.verVideo {
+  width: 160px;
+  height: 100px;
+  display: flex;
+  flex-wrap: wrap;
+  font-family: "Avenir_Next_Regular";
+}
+
+.verVideo a {
+  display: block;
+  text-decoration: none;
+  font-size: 20px;
+  color: #ffffff;
+}
+
+.verVideo img {
+  width: 60px;
+  display: block;
+  margin: 10px auto;
+}
+
+.btnIrInicio {
+  font-family: "Avenir_Next_Regular";
+  text-align: center;
+  display: flex;
+  align-items: center;
+  width: 106px;
+  position: absolute;
+  top: 130px;
+  right: 30px;
+  z-index: 9;
+}
+
+.btnIrInicio a {
+  background-color: #0078ff;
+  width: 106px;
+  display: block;
+  text-decoration: none;
+  font-size: 15px;
+  color: #ffffff;
+  padding: 20px;
+  border-radius: 100%;
+  outline: none;
+}
+
+.btnIrInicio img {
+  width: 40px;
+  display: block;
+  margin: 0 auto;
+}
+
+.contSecc {
+  width: 100%;
+}
+
+.divOnda {
+  width: 100%;
+  background-image: url("../img/SVG/border-top.svg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 170px;
+  position: absolute;
+  bottom: 0px;
+}
+
+.divMasInformacion {
+  font-size: 40px;
+  padding: 15px 51px;
+  box-sizing: border-box;
+  width: 100%;
+  text-align: left;
+  margin-top: 66px;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.textoCopy {
+  color: #06235e;
+  font-style: italic;
+  width: 60%;
+}
+
+.divMasInformacion div:last-of-type {
+  width: 38%;
+  outline: none;
+}
+
+.btnMasInfo {
+  width: 100%;
+  background-color: #0078ff;
+  border-radius: 50px;
+  color: #ffffff;
+  text-align: center;
+  background-size: 100%;
+  position: relative;
+}
+
+.btnMasInfo a {
+  width: 100%;
+  background-color: #0078ff;
+  border-radius: 150px;
+  color: #ffffff;
+  text-align: center;
+  background-size: 100%;
+  padding: 25px 23px;
+  margin: 0px auto;
+  display: block;
+  position: relative;
+}
+
+/**/
+
+.divCosto {
+  width: 100%;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  align-items: center;
+  margin: 50px 0;
+  padding: 0 30px;
+  box-sizing: border-box;
+}
+
+.divCosto .divPrecio,
+.divPagosSemanales {
+  width: 40%;
+}
+
+.divPrecio {
+  font-size: 30px;
+  color: #808080;
+  text-align: right;
+  border-right: 1px solid #808080;
+  padding: 0 50px 0 15px;
+  box-sizing: border-box;
+}
+
+.divPrecio .textoRojo {
+  font-size: 48px;
+  margin-top: 10px;
+}
+
+.textoRojo span {
+  font-size: 40px;
+}
+
+.textoRojo {
+  color: #d00729;
+}
+
+.divPagosSemanales {
+  width: 56%;
+  color: #0d2563;
+  text-align: left;
+  font-size: 42px;
+  padding-left: 15px;
+  box-sizing: border-box;
+}
+
+.divPagosSemanales > div {
+  margin: 10px 0;
+}
+
+.divPagosSemanales span {
+  font-size: 48px;
+}
+
+.imgCreditoElektra {
+  width: 65%;
+  max-width: 320px;
+  margin: 10px 0;
+}
+
+.divOnda2 {
+  width: 100%;
+  background-image: url("../img/SVG/lineaOnda3.svg");
+  background-repeat: no-repeat;
+  background-size: 130%;
+  height: 60px;
+  background-position: -13px;
+}
+
+.divMasModelos {
+  width: 100%;
+  padding: 15px;
+  box-sizing: border-box;
+}
+
+.divMasModelos h2 {
+  font-size: 42px;
+  color: #5f5f5f;
+  font-family: "Avenir_Next_Bold";
+  text-align: center;
+  margin: 10px 0 10px 0;
+}
+
+.divSliderMasModelos .modelo {
+  display: block;
+  width: 100%;
+  font-size: 42px;
+  color: #051c58;
+  text-align: center;
+}
+
+.divSliderMasModelos .item {
+  width: 95% !important;
+}
+
+.divSliderMasModelos .item {
+  width: 95% !important;
+  background-image: url(../img/SVG/img_baseSugerencias.svg);
+  background-repeat: no-repeat;
+  background-size: 100%;
+  background-position: 79% 80%;
+}
+
+/* Nuevo Slider #owl-carousel1 */
+
+#owl-carousel1 button.owl-prev,
+#owl-carousel1 button.owl-next {
+  width: 5% !important;
+}
+
+#owl-carousel1 button.owl-prev span {
+  background-image: url(../img/PNG/ico_slideIzq.png) !important;
+  background-size: 50px !important;
+}
+
+#owl-carousel1 button.owl-prev {
+  position: absolute !important;
+  left: 0;
+  top: -168px !important;
+}
+
+#owl-carousel1 button.owl-next span {
+  background-image: url(../img/PNG/ico_slideDer.png) !important;
+  background-size: 50px !important;
+}
+
+#owl-carousel1 button.owl-next {
+  position: absolute !important;
+  right: 0;
+  top: -168px !important;
+}
+
+.contCuetionario {
+  width: 100%;
+  height: 1920px;
+  position: relative;
+  background-image: url(../img/bgCuestionario.png);
+}
+
+.cuestionarioHead {
+  position: relative;
+  background-image: url(../img/bgHeadCuestionario.svg);
+  width: 100%;
+  height: 530px;
+  background-repeat: no-repeat;
+  z-index: 0;
+}
+
+.numeroPregunta {
+  position: absolute;
+  font-size: 230px;
+  color: #ffffff;
+  top: 193px;
+  left: 251px;
+  opacity: 0.05;
+}
+
+.textoPregunta {
+  text-align: center;
+  color: #ffffff;
+  width: 100%;
+  position: absolute;
+  top: 247px;
+  display: flex;
+  flex-direction: column;
+  font-size: 65px;
+  font-style: italic;
+}
+
+.textoPregunta span:nth-child(1) {
+  font-family: "Avenir_Light";
+  margin-bottom: -5px;
+}
+
+.textoPregunta span:nth-child(2) {
+  font-family: "Avenir_Next_Demi_Bold";
+}
+
+.btnInicioCuestionario {
+  widows: 40px;
+  height: 40px;
+  position: absolute;
+  background-image: url(../img/SVG/btn_inicio.svg);
+  background-repeat: no-repeat;
+}
+
+.cuestionarioContenido {
+  position: relative;
+  width: 100%;
+  height: 800px;
+  margin-top: -63px;
+}
+
+.divBtnContinuar {
+  width: 34%;
+  position: absolute;
+  right: 0px;
+  top: 0px;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: flex-end;
+}
+
+/**/
+.divBtnRegresar {
+  position: absolute;
+  left: 0px;
+  top: 150px;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: flex-end;
+  outline: none;
+  z-index: 99;
+}
+
+.btnRegresar {
+  color: #ffffff;
+  font-size: 32px;
+  font-family: "Avenir_Next_Regular";
+  width: 200px;
+  height: 65px;
+  /* background-image: url(../img/SVG/btn_regresar.svg);
+    background-repeat: no-repeat;
+    background-size: cover; */
+  display: flex;
+  justify-content: flex-start;
+  align-items: center;
+  padding-left: 20px;
+  background-color: #0078ff;
+  border-top-right-radius: 55px;
+  border-bottom-right-radius: 55px;
+  outline: none;
+  /* background-position: -15px 0px; */
+}
+
+.divRespuestasCuestionario {
+  /*width: 90%; erick*/
+  padding-top: 132px;
+  margin: 0 auto;
+  box-sizing: border-box;
+}
+
+.txtRespuest {
+  color: #706f6f;
+  font-size: 30px;
+  font-family: "Avenir_Next_Regular";
+  margin-top: 50px;
+}
+
+.center .txtRespuest {
+  color: #0078ff !important;
+  font-family: "Avenir_Next_Demi_Bold" !important;
+}
+
+.respCuest {
+  position: relative;
+}
+
+.imgOpcional {
+  position: absolute;
+  bottom: -45px;
+  left: -12px;
+  /*
+  width: 428px !important;
+  erick*/
+}
+
+/* #owl-carousel2.owl-carousel .owl-stage-outer {
+    width: 92%!important;
+} */
+
+.imgResp {
+  border-radius: 80px;
+}
+
+#owl-carousel2 .imgResp {
+  border: 8px solid #0078ff;
+}
+
+.divRespuestasCuestionario .values-slider .owl-item .item {
+  filter: none !important;
+  opacity: 0.7;
+}
+
+.divRespuestasCuestionario .values-slider .owl-item.center .item {
+  opacity: 1;
+}
+
+.gifCuestionario {
+  width: 100%;
+  display: flex;
+  justify-content: center;
+}
+
+/* OVERLAY RESULTADOS */
+
+.overlay {
+  background-color: rgb(255, 255, 255);
+  height: 1560px;
+  width: 100%;
+  padding: 100px 5%;
+  box-sizing: border-box;
+  position: fixed;
+  top: 362px;
+  z-index: 100;
+  left: 1920px;
+  max-width: 1080px;
+  right: 0;
+  /*margin: 0 auto;*/
+  display: block !important;
+  transition: all 0.3s ease-out;
+  -moz-transition: all 0.3s ease-out;
+  -webkit-transition: all 0.3s ease-out;
+}
+
+.overlay.active {
+  display: block !important;
+
+  transition: all 0.3s ease-out;
+  -moz-transition: all 0.3s ease-out;
+  -webkit-transition: all 0.3s ease-out;
+  left: 0px;
+}
+
+.tableHeader {
+  width: 90%;
+  background-color: #002a58;
+
+  padding: 8px 100px;
+  text-transform: uppercase;
+  border-radius: 40px;
+  box-sizing: border-box;
+  position: relative;
+  margin-bottom: 20px;
+  margin-top: 50px;
+  font-size: 25px;
+  color: #fff;
+  font-family: "AvenirNextLTPro-Medium", sans-serif;
+}
+
+.tableHeaderIco {
+  position: absolute;
+
+  height: 55px;
+  width: 55px;
+  top: -20px;
+  left: 0px;
+}
+.tableWrapper {
+  height: 850px;
+  overflow-y: scroll;
+  overflow-x: hidden;
+}
+
+.overlayTbl {
+  padding: 20px 0px;
+  width: 100%;
+  font-size: 28px;
+  border-collapse: collapse;
+}
+.overlayTbl td {
+  padding: 7px 0px;
+  border-bottom: 1px solid #dedede;
+}
+.overlayTbl td:nth-child(1) {
+  color: #002a58;
+}
+.motosFlex {
+  display: flex;
+  margin: 250px auto 0 auto;
+  width: 80%;
+  align-items: end;
+  justify-content: space-between;
+}
+.lineaCurva {
+  position: absolute;
+  right: 0;
+  width: 1080px;
+  margin-top: 80px;
+}
+.motosFlex img {
+  width: 30%;
+}
+.motosFlex img:nth-child(2) {
+  width: 45%;
+}
+.overlayClose {
+  position: absolute;
+  padding: 30px 5px;
+  box-sizing: border-box;
+  width: 110px;
+  background-color: #1f73ff;
+  right: 0px;
+  top: 260px;
+  border-radius: 55px 0px 0px 55px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  display: block;
+}
+.overlayClose img {
+  position: relative;
+  width: 40px;
+  cursor: pointer;
+  display: block;
+  margin: 0 auto;
+}
+
+.especialistaCopy {
+  font-size: 30px;
+  color: #002a58;
+  font-family: "AvenirNextLTPro-Medium", sans-serif;
+  width: 100%;
+  margin: 0 auto;
+  padding-left: 10%;
+  line-height: 1.1em;
+}
+.especialistaCopy b {
+  font-size: 40px;
+}
+/*
+.wrapperInfoEspecialista {
+  width: 610px;
+  margin: 80px auto;
+  border: 6px solid #dadada;
+  border-radius: 60px;
+  outline: none;
+  border-color: #1f73ff;
+  box-shadow: 0 0 6px 3px #1f73ff;
+  padding: 40px;
+  box-sizing: border-box;
+}
+*/
+.infoEspecialista {
+  display: flex;
+  font-family: "AvenirNextLTPro-Medium", sans-serif;
+  font-size: 30px;
+  width: 100%;
+}
+.infoEspecialista .half {
+  padding: 10px;
+  width: 100%;
+  box-sizing: border-box;
+}
+
+.logoItalika {
+  width: 130px;
+}
+.especialistaNombre {
+  font-size: 1.2em;
+  margin-top: 20px;
+}
+.especialistaCargo {
+  font-size: 0.8em;
+}
+
+.especialista .bloque2 {
+  text-align: center;
+  color: #1f73ff;
+  font-size: 1.5em;
+}
+.especialista .bloque2 img {
+  filter: invert(62%) sepia(89%) saturate(6401%) hue-rotate(209deg)
+    brightness(101%) contrast(103%);
+}
+
+.btnInicio,
+.btnInicio:focus,
+.divBtnContinuar,
+.divBtnContinuar:focus .btnIrInicio,
+.btnIrInicio:focus,
+.btnMasInfo,
+.btnMasInfo:focus,
+.divBtnQuiero,
+.divBtnQuiero:focus,
+.overlayClose,
+.overlayClose:focus {
+  outline: none;
+}
+
+/* ActualizaciÃ³n 21/mar/2020 */
+#owl-carousel2.owl-carousel .owl-nav.disabled,
+#owl-carousel2.owl-carousel .owl-dots.disabled {
+  display: block !important;
+}
+#owl-carousel2.owl-carousel .owl-dots {
+  position: absolute !important;
+  top: -100px;
+  left: 25%;
+  right: 25%;
+  z-index: 1 !important;
+}
+#owl-carousel2.owl-carousel .owl-dots span {
+  width: 30px !important;
+  height: 30px !important;
+}
+
+.bgHeader {
+  width: 100%;
+  height: 200px;
+  background-color: #00205c;
+}
+
+#owl-carousel2.owl-theme .owl-dots .owl-dot {
+  padding: 0px 20px !important;
+}
+
+.imgOpcional2 {
+  position: absolute;
+  top: -51px;
+  display: flex;
+  width: 100%;
+  justify-content: center;
+  text-align: center;
+  font-size: 20px;
+  margin-left: 18px;
+  font-family: "Avenir_Light";
+}
+.imgBtnModal {
+  background-image: url(../img/btnModal.svg);
+  background-repeat: none;
+  background-position: center;
+  height: 98px;
+  width: 300px;
+  padding-top: 21px;
+  font-family: "Avenir_Light";
+  font-size: 45px !important;
+  color: #fff;
+}
+
+.owl-carousel .owl-stage-outer {
+  overflow: initial !important;
+}
+
+.values-slider .owl-item .item {
+  transform: none !important;
+}
+
+.divRespuestasCuestionario .owl-item {
+  /*
+  width: 400px !important;
+  margin: 0px 40px !important;
+  */
+}
+
+/*Nuevo loading asesor*/
+/*3Bloques Asesor*/
+
+.div3BloquesA {
+  width: 100%;
+}
+
+.div3BloquesA .bloqueA {
+  color: #ffffff;
+  text-align: center;
+  padding: 219px 10px;
+  font-style: italic;
+}
+
+.div3BloquesA .bloque1A {
+  font-size: 130px;
+  background-color: #05468d;
+}
+
+.div3BloquesA .bloque2A {
+  background-color: #0d3068;
+  font-size: 35px;
+  border-top: 30px solid #00205c;
+  border-bottom: 30px solid #00205c;
+  font-family: "Avenir_Next_Regular";
+  padding: 80px 10px 160px 10px;
+}
+
+.bloque2A img {
+  width: 160px;
+  margin: 0 auto;
+  display: block;
+  margin-bottom: 10px;
+}
+
+.div3BloquesA .bloque3A {
+  background-color: #023580;
+  font-size: 130px;
+  padding: 300px 10px;
+}
+.wrapperInfoEspecialista {
+  width: 80%;
+  margin: 10px auto;
+  border: 6px solid #dadada;
+  border-radius: 60px;
+  outline: none;
+  border-color: #1f73ff;
+  box-shadow: 0 0 6px 3px #1f73ff;
+  /*padding: 40px;*/
+  box-sizing: border-box;
+}
+
+.especialistaCopy2 {
+  font-size: 35px;
+  color: #ffffff;
+  font-family: "AvenirNextLTPro-Medium", sans-serif;
+  width: 100%;
+  margin: 0 auto;
+  line-height: 1.1em;
+}
+
+.divCreditoSemanal {
+  width: 100%;
+  display: flex;
+  justify-content: space-between;
+  margin-bottom: 40px;
+  padding: 15px;
+  box-sizing: border-box;
+}
+.divCreditoSemanal .divPagos {
+  font-size: 48px;
+  border-right: 1px solid #808080;
+}
+.divCreditoSemanal .divPagos,
+.divCreditoSemanal .divPrecioSemanales {
+  width: 48%;
+  padding: 15px;
+  box-sizing: border-box;
+}
+
+.divPrecioSemanales div:first-of-type {
+  font-family: "Avenir_Next_Bold";
+  font-size: 65px;
+  color: #0d2563;
+}
+.divPrecioSemanales span {
+  font-size: 33px;
+}
+.divPagos {
+  color: #afafaf;
+}
+
+.semanalidades {
+  color: #afafaf;
+  font-size: 33px;
+  font-family: "Avenir_Next_Regular";
+}
+.divPagosSemanales span {
+  font-size: 48px;
+}
+
+.imgCreditoElektra {
+  width: 65%;
+  max-width: 320px;
+  margin: 10px 0;
+}
+.divPagos img {
+  width: 90%;
+}
+
+.btnFichaTecnica a {
+  color: #ffffff;
+  font-size: 34px;
+  font-family: "Avenir_Next_Regular";
+  width: 275px;
+  height: 68px;
+  background: rgb(236, 148, 47);
+  background: linear-gradient(
+    90deg,
+    rgba(236, 148, 47, 1) 0%,
+    rgba(238, 156, 55, 0.9724264705882353) 36%,
+    rgba(244, 178, 77, 0.8491771708683473) 63%,
+    rgba(251, 203, 102, 1) 100%
+  );
+  padding: 8px;
+  border-top-left-radius: 55px;
+  border-bottom-left-radius: 55px;
+  border-top-right-radius: 55px;
+  border-bottom-right-radius: 55px;
+  text-align: center;
+  display: block;
+  position: absolute;
+  bottom: 125px;
+  left: 91px;
+  z-index: 99;
+}
+
+.btnIrInicio2 {
+  width: 120px;
+  display: block;
+  text-decoration: none;
+  font-size: 20px;
+  color: #ffffff;
+  border-radius: 100%;
+  outline: none;
+  position: absolute;
+  top: 20px;
+  right: 23px;
+}
+.btnIrInicio2 a {
+  background-color: #0078ff;
+  width: 120px;
+  display: block;
+  text-decoration: none;
+  font-size: 20px;
+  color: #ffffff;
+  padding: 24px 15px;
+  border-radius: 100%;
+  outline: none;
+}
+.btnIrInicio2 a img {
+  width: 45px;
+  display: block;
+  margin: 0 auto;
+}
+
+.verVideo img {
+  width: 48px;
+  display: block;
+  margin: 10px auto;
+}
+
+.divQuiero .divBtnQuiero {
+  margin-bottom: 100px;
+}
+.divMotocicletaN {
+  width: 100%;
+  display: flex;
+  position: absolute;
+  top: 49%;
+}
+
+.TituloModeloItalika {
+  font-size: 55px;
+  color: #ffffff;
+  text-align: center;
+  width: 40%;
+  padding: 10px;
+}
+
+.divMotocicletaN .copy {
+  font-family: sans-serif;
+  color: #ffffff;
+  font-style: italic;
+  width: 60%;
+  font-size: 35px;
+  padding: 1px 30px;
+  border-left: 1px solid #ffffff;
+  box-sizing: border-box;
+}
+.divHeader .imgItalika {
+  width: 90%;
+  margin: 0 auto;
+  position: absolute;
+  top: -195px;
+  left: 13px;
+  right: 0;
+  z-index: 9;
+}
+
+.cuestionarioHeadResultado .textoPregunta {
+  font-size: 50px !important;
+  top: 25% !important;
+}
+.cuestionarioHeadResultado .divBtnRegresar {
+  /* top: 110px !important; */
+}
+
+.divHeader {
+  width: 100%;
+  height: 550px;
+  background-blend-mode: multiply;
+}
+.backgroundImageHeader {
+  background-image: url(../img/PNG/img_fdoResultado-min2.png);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-blend-mode: multiply;
+  background-color: #182f65;
+}
+
+.divSliderMasModelos .owl-nav {
+  display: none !important;
+}
+
+/* ---------------------------------- */
+
+.contenedorSlider {
+  width: 65%;
+  margin: 0 auto;
+  padding: 120px 0px 120px 0px;
+}
+
+.contenedorImgText {
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  margin-top: 100px;
+}
+
+.contenedorImgText > div {
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  text-align: center;
+  align-items: center;
+}
+
+.contenedorImgText > div:nth-child(1) {
+  color: #a9a9a9;
+  font-size: 2.5pc;
+}
+.contenedorImgText > div:nth-child(2) {
+  color: #06205d;
+  border-left: solid 1px #ccc;
+}
+
+.contenedorImgText > div:nth-child(2) > span:nth-child(1) {
+  font-size: 5pc;
+}
+.contenedorImgText > div:nth-child(2) > span:nth-child(2) {
+  font-size: 38px;
+  margin-top: -10px;
+}
+
+.js-grid-text-1,
+.js-grid-text-3 {
+  display: none !important;
+}
+
+.btnCenter {
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+  margin: 15px 0px 10px 0px;
+}
+.btnCenter a {
+  margin: 0px 1% 10px 0px;
+}
+
+.btnBuscarItalika {
+  text-align: center;
+  display: flex;
+  color: #ffffff;
+  cursor: pointer;
+  padding: 10px 15px 5px 15px;
+  max-width: 425px;
+  font-family: "Avenir_Light";
+  justify-content: center;
+  align-items: center;
+  height: 80px;
+  border-radius: 30px;
+  font-size: 43px;
+  background: rgba(237, 149, 47, 1);
+  background: -moz-linear-gradient(
+    left,
+    rgba(237, 149, 47, 1) 0%,
+    rgba(251, 201, 100, 1) 100%
+  );
+  background: -webkit-gradient(
+    left top,
+    right top,
+    color-stop(0%, rgba(237, 149, 47, 1)),
+    color-stop(100%, rgba(251, 201, 100, 1))
+  );
+  background: -webkit-linear-gradient(
+    left,
+    rgba(237, 149, 47, 1) 0%,
+    rgba(251, 201, 100, 1) 100%
+  );
+  background: -o-linear-gradient(
+    left,
+    rgba(237, 149, 47, 1) 0%,
+    rgba(251, 201, 100, 1) 100%
+  );
+  background: -ms-linear-gradient(
+    left,
+    rgba(237, 149, 47, 1) 0%,
+    rgba(251, 201, 100, 1) 100%
+  );
+  background: linear-gradient(
+    to right,
+    rgba(237, 149, 47, 1) 0%,
+    rgba(251, 201, 100, 1) 100%
+  );
+  filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#ed952f', endColorstr='#fbc964', GradientType=1 );
+}
+
+.bread {
+  position: absolute;
+  top: 58px;
+  left: 40px;
+  font-size: 30px;
+  width: 800px;
+}
+.bread a {
+  color: #0078ff;
+  font-family: "Avenir_Next_Regular";
+  padding-right: 20px;
+}
+.contenidoMoto {
+  display: none;
+}
+.artModelos {
+  display: list-item;
+  position: relative;
+  float: left;
+  padding-left: 35px;
+  width: 32%;
+  list-style: " ";
+}
+.artModelos img {
+  display: block;
+  width: 300px;
+  background-image: url(../img/SVG/img_baseSugerencias.svg);
+  background-repeat: no-repeat;
+  background-size: 100%;
+  background-position: 79% 100%;
+}
+
+.z-indexAumentada {
+  z-index: 200;
+}
+
+.fotoEspecialista {
+  width: 50%;
+  margin: 10px 15px;
+}

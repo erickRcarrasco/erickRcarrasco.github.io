@@ -1,0 +1,2170 @@
+{
+    "datos": [
+        {
+            "SKU": "34002538",
+            "Modelo": "V200",
+            "Gusto": "ADVENTURE",
+            "Precio": "$61,110.00",
+            "preciodescuento": "$49,999.00",
+            "semanalidad": "$589.00",
+            "img3/4d": "/imagenes/italika/motos/1_V200/optimizadas/V200_3_4_der.png",
+            "img3/4i": "/imagenes/italika/motos/1_V200/optimizadas/V200_3_4_izq.png",
+            "imgfrentes": "/imagenes/italika/motos/1_V200/optimizadas/V200_s.png",
+            "imgfrente": "/imagenes/italika/motos/1_V200/optimizadas/V200.png",
+            "Caracteristicas": {
+                "motor": {
+                    "Tipodemotor": "4 Tiempos, monocilíndrico",
+                    "Cilindrada": "200 CC",
+                    "Velocidadmaxima": "110 km/h",
+                    "Potenciamaxima": "15 Hp @ 7500 RPM",
+                    "Torquemaximo": "16 N-m @ 5500 RPM",
+                    "Rendimientodecombustible": "23.5 km/L",
+                    "Sistemadearranque": "Eléctrico y de pedal",
+                    "Sistemadeignicion": "CDI (Ignición por descarga de condensador)",
+                    "TransmisionFinal": "Estándar de 6 velocidades/por cadena",
+                    "Capacidaddecombustible": "14 L",
+                    "Rendimientodecombustibleportanque": "329 km",
+                    "Capacidaddeaceite": "1 L",
+                    "Tipodeenfriamiento": "Aire forzado"
+                },
+                "chasis": {
+                    "Suspensiondelantera": "Horquilla telescópica",
+                    "Suspensiontrasera": "Basculante MonoShock",
+                    "Frenosdelanteros": "Disco Sencillo",
+                    "Frenostraseros": "Disco Sencillo",
+                    "Llantadelantera": "100/80-R17",
+                    "Llantatrasera": "120/80-R17"
+                },
+                "dimensionPeso": {
+                    "Largototal": "2090 mm",
+                    "Anchototal": "865 mm",
+                    "Altototal": "1205 mm",
+                    "Alturadelasiento": "780 mm",
+                    "Capacidaddecarga": "150 kg",
+                    "Pesoenseco": "156 kg"
+                }
+            }
+        },
+        {
+            "SKU": "34002548",
+            "Modelo": "VX250EFI",
+            "Gusto": "ADVENTURE",
+            "semanalidad": "$905.00",
+            "video": "https://www.youtube.com/watch?v=iLp5VLuBsHQ&feature=emb_logo",
+            "nombre archivo video": "/videos/italika/motos/02_VX250.mp4",
+            "img3/4d": "/imagenes/italika/motos/2_VX250/optimizadas/VX250_3_4_der.png",
+            "img3/4i": "/imagenes/italika/motos/2_VX250/optimizadas/VX250_3_4_izq.png",
+            "imgfrentes": "/imagenes/italika/motos/2_VX250/optimizadas/VX250_s.png",
+            "imgfrente": "/imagenes/italika/motos/2_VX250/optimizadas/VX250.png",
+            "Caracteristicas": {
+                "motor": {
+                    "Tipodemotor": "4 Tiempos, monocilíndrico 4 válvulas OHC",
+                    "Cilindrada": "249.6 CC",
+                    "Velocidadmaxima": "135 km/h",
+                    "Potenciamaxima": "24.8 Hp @ 9000 RPM",
+                    "Torquemaximo": "22.5 N-m @ 7000 RPM",
+                    "Rendimientodecombustible": "25.5 km/L",
+                    "Sistemadearranque": "Eléctrico",
+                    "Sistemadeignicion": "ECU (unidad de control de motor)",
+                    "TransmisionFinal": "Estándar de 6 velocidades/por cadena",
+                    "Capacidaddecombustible": "15 L",
+                    "Rendimientodecombustibleportanque": "382.5 km",
+                    "Capacidaddeaceite": "1.5 C/cambio filtro -1.3 S/cambio de filtro",
+                    "Tipodeenfriamiento": "Líquido"
+                },
+                "chasis": {
+                    "Suspensiondelantera": "Horquilla telescópica invertida",
+                    "Suspensiontrasera": "Basculante Mono Shock",
+                    "Frenosdelanteros": "Disco Sencillo",
+                    "Frenostraseros": "Disco Sencillo",
+                    "Llantadelantera": "100/90-R18",
+                    "Llantatrasera": "130/90-R15"
+                },
+                "dimensionPeso": {
+                    "dimensionPeso": "Largo total  2080 mm",
+                    "Anchototal": "825 mm",
+                    "Altototal": "1230 mm",
+                    "Alturadelasiento": "895 mm",
+                    "Capacidaddecarga": "150 kg",
+                    "Pesoenseco": "175 kg"
+                }
+            }
+        },
+        {
+            "SKU": "34004282",
+            "Modelo": "VOLTIUM BIKE",
+            "Gusto": "BICICLETA",
+            "Precio": "$21,666.00",
+            "preciodescuento": "$16,999.00",
+            "semanalidad": "$225.00",
+            "video": "https://www.youtube.com/watch?time_continue=8&v=dbGLYdS5q9w&feature=emb_logo",
+            "nombre archivo video": "/videos/italika/motos/03_VoltiumBike.mp4",
+            "img3/4d": "/imagenes/italika/motos/3_VoltiumBike/optimizadas/VoltiumBike_3_4_der.png",
+            "img3/4i": "/imagenes/italika/motos/3_VoltiumBike/optimizadas/VoltiumBike_3_4_izq.png",
+            "imgfrentes": "/imagenes/italika/motos/3_VoltiumBike/optimizadas/VoltiumBike_s.png",
+            "imgfrente": "/imagenes/italika/motos/3_VoltiumBike/optimizadas/VoltiumBike.png",
+            "Caracteristicas": {
+                "motor": {
+                    "Tipodemotor": "Trasero de 36V250W",
+                    "Cilindrada": "200 CC",
+                    "Velocidadmaxima": "25 km/h",
+                    "Cambios": "7 Velocidades",
+                    "Autonomía": "35KM",
+                    "Tiempoderecarga": "4-6H 36V2A",
+                    "TipoBateria": "Ion Litio",
+                    "CapacidadAh": "36V8.8 Ah"
+                },
+                "chasis": {
+                    "Rodada": "20",
+                    "TamanoRin": "20",
+                    "Rin": "Aro de Aluminio c/rayos de acero"                    
+                },
+                "dimensionPeso": {
+                    "Largototal": "1600 mm",
+                    "Anchototal": "580 mm",
+                    "Altototal": "1100 mm",
+                    "Capacidaddecarga": "90 kg",
+                    "Pesototal": "21 kg",
+                    "Distanciaentreejes": "993 mm"
+                }
+            }
+        },
+        {
+            "SKU": "34004257",
+            "Modelo": "SPTFIRE200",
+            "Gusto": "CAFÉ RACER",
+            "Precio": "$36,332.00",
+            "preciodescuento": "$25,999.00",
+            "semanalidad": "$304.00",
+            "video": "https://www.youtube.com/watch?time_continue=17&v=LL7Iv5qqNUc&feature=emb_logo",
+            "nombre archivo video": "/videos/italika/motos/04_SPTFIRE200.mp4",
+            "img3/4d": "/imagenes/italika/motos/4_SPTFire200/optimizadas/SPTFire200_3_4_der.png",
+            "img3/4i": "/imagenes/italika/motos/4_SPTFire200/optimizadas/SPTFire200_3_4_izq.png",
+            "imgfrentes": "/imagenes/italika/motos/4_SPTFire200/optimizadas/SPTFire200_s.png",
+            "imgfrente": "/imagenes/italika/motos/4_SPTFire200/optimizadas/SPTFire200.png",
+            "Caracteristicas": {
+                "motor": {
+                    "Tipodemotor": "4 Tiempos, monocilíndrico",
+                    "Cilindrada": "200 CC",
+                    "Velocidadmaxima": "107 km/h",
+                    "Potenciamaxima": "15 Hp @ 8000 RPM",
+                    "Torquemaximo": "14.5 N-m @ 6000 RPM",
+                    "Rendimientodecombustible": "27 km/L",
+                    "Sistemadearranque": "Eléctrico y de pedal",
+                    "Sistemadeignicion": "CDI (Ignición por descarga de condensador)",
+                    "TransmisionFinal": "Estándar de 5 velocidades/por cadena",
+                    "Capacidaddecombustible": "16.2 L",
+                    "Rendimientodecombustibleportanque": "437.4 km",
+                    "Capacidaddeaceite": "1 L",
+                    "Tipodeenfriamiento": "Aire forzado"
+                },
+                "chasis": {
+                    "Suspensiondelantera": "Horquilla telescópica",
+                    "Suspensiontrasera": "Basculante doble amortiguador",
+                    "Frenosdelanteros": "Disco Sencillo",
+                    "Frenostraseros": "Tambor",
+                    "Llantadelantera": "80/90-R17",
+                    "Llantatrasera": "120/70-R17"
+                },
+                "dimensionPeso": {
+                    "Largototal": "1920 mm",
+                    "Anchototal": "740 mm",
+                    "Altototal": "1060 mm",
+                    "Alturadelasiento": "780 mm",
+                    "Capacidaddecarga": "150 kg",
+                    "Pesoenseco": "109 kg"
+                }
+            }
+        },
+        {
+            "SKU": "34003373",
+            "Modelo": "RC200",
+            "Gusto": "CHOPPER",
+            "Precio": "$36,999.00",
+            "preciodescuento": "$28,999.00",
+            "semanalidad": "$352.00",
+            "img3/4d": "/imagenes/italika/motos/5_RC200/optimizadas/RC200_3_4_der.png",
+            "img3/4i": "/imagenes/italika/motos/5_RC200/optimizadas/RC200_3_4_izq.png",
+            "imgfrentes": "/imagenes/italika/motos/5_RC200/optimizadas/RC200_s.png",
+            "imgfrente": "/imagenes/italika/motos/5_RC200/optimizadas/RC200.png",
+            "Caracteristicas": {
+                "motor": {
+                    "Tipodemotor": "4 Tiempos, monocilíndrico",
+                    "Cilindrada": "200 CC",
+                    "Velocidadmaxima": "112 km/h",
+                    "Potenciamaxima": "14.8 Hp @ 8000 RPM",
+                    "Torquemaximo":  "14.5 N-m @ 6000 RPM",
+                    "Rendimientodecombustible": "27 km/L",
+                    "Sistemadearranque": "Eléctrico y de pedal",
+                    "Sistemadeignicion": "CDI (Ignición por descarga de condensador)",
+                    "TransmisionFinal": "Estándar de 5 velocidades/por cadena",
+                    "Capacidaddecombustible": "16 L",
+                    "Rendimientodecombustibleportanque": "432 km",
+                    "Capacidaddeaceite": "1 L",
+                    "Tipodeenfriamiento": "Aire forzado"
+                },
+                "chasis": {
+                    "Suspensiondelantera": "Horquilla telescópica",
+                    "Suspensiontrasera": "Basculante con doble amortiguador",
+                    "Frenosdelanteros": "Disco sencillo",
+                    "Frenostraseros": "Tambor",
+                    "Llantadelantera": "3.00-R18",
+                    "Llantatrasera": "110/90-R16"
+                },
+                "dimensionPeso": {
+                    "Largototal": "1975 mm",
+                    "Anchototal": "790 mm",
+                    "Altototal": "1100 mm",
+                    "Alturadelasiento": "735 mm",
+                    "Capacidaddecarga": "150 kg",
+                    "Pesoenseco": "126 kg"
+                }
+            }
+        },
+        {
+            "SKU": "34004265",
+            "Modelo": "RC150",
+            "Gusto": "CHOPPER",
+            "Precio": "$31,332.00",
+            "preciodescuento": "$24,999.00",
+            "semanalidad": "$296.00",
+            "img3/4d": "/imagenes/italika/motos/6_RC150/optimizadas/RC150_3_4_der.png",
+            "img3/4i": "/imagenes/italika/motos/6_RC150/optimizadas/RC150_3_4_izq.png",
+            "imgfrentes": "/imagenes/italika/motos/6_RC150/optimizadas/RC150_s.png",
+            "imgfrente": "/imagenes/italika/motos/6_RC150/optimizadas/RC150.png",
+            "Caracteristicas": {
+                "motor": {
+                    "Tipodemotor": "4 Tiempos, monocilíndrico",
+                    "Cilindrada": "149 CC",
+                    "Velocidadmaxima": "10 km/h",
+                    "Potenciamaxima": "11.4 Hp @ 8500 RPM",
+                    "Torquemaximo": "10 N-m @ 6500 RPM",
+                    "Rendimientodecombustible": "28 km/L",
+                    "Sistemadearranque": "Eléctrico y de pedal",
+                    "TransmisionFinal": "Estándar de 5 velocidades/por cadena",
+                    "Capacidaddecombustible": "15.5 L",
+                    "Rendimientodecombustibleportanque": "434 km",
+                    "Capacidaddeaceite": "1 L"
+                },
+                "chasis": {
+                    "Suspensiondelantera": "Horquilla telescópica",
+                    "Suspensiontrasera": "Basculante doble amortiguador",
+                    "Frenosdelanteros": "Disco Sencillo",
+                    "Frenostraseros": "Tambor",
+                    "Llantadelantera": "2.75-R18",
+                    "Llantatrasera": "110/90-R16"
+                },
+                "dimensionPeso": {
+                    "dimensionPeso": "Largo total  2100 mm",
+                    "Anchototal": "840 mm",
+                    "Altototal": "1101 mm",
+                    "Alturadelasiento": "680 mm",
+                    "Capacidaddecarga": "150 kg",
+                    "Pesoenseco": "125 kg"
+                }
+            }
+        },
+        {
+            "SKU": "34004272",
+            "Modelo": "TC250",
+            "Gusto": "CHOPPER",
+            "Precio": "$50,666.00",
+            "preciodescuento": "$38,490.00",
+            "semanalidad": "$550.00",
+            "video": "https://www.youtube.com/watch?v=xdPtB9pdGCI&feature=emb_logo",
+            "nombre archivo video": "/videos/italika/motos/07_TC250.mp4",
+            "img3/4d": "/imagenes/italika/motos/7_TC250/optimizadas/TC250_3_4_der.png",
+            "img3/4i": "/imagenes/italika/motos/7_TC250/optimizadas/TC250_3_4_izq.png",
+            "imgfrentes": "/imagenes/italika/motos/7_TC250/optimizadas/TC250_s.png",
+            "imgfrente": "/imagenes/italika/motos/7_TC250/optimizadas/TC250.png",
+            "Caracteristicas": {
+                "motor": {
+                    "Tipodemotor": "4 Tiempos, monocilíndrico",
+                    "Cilindrada": "250 CC",
+                    "Velocidadmaxima": "110 km/h",
+                    "Potenciamaxima": "17.8 Hp @ 8500 RPM",
+                    "Torquemaximo": "16.05 N-m @ 6500 RPM",
+                    "Rendimientodecombustible": "24 km/L",
+                    "Sistemadearranque": "Eléctrico y de pedal",
+                    "TransmisionFinal": "Estándar de 5 velocidades/por cadena",
+                    "Capacidaddecombustible": "15 L",
+                    "Rendimientodecombustibleportanque": "360 km"
+                },
+                "chasis": {
+                    "Suspensiondelantera": "Horquilla telescópica",
+                    "Suspensiontrasera": "Basculante doble amortiguador",
+                    "Frenosdelanteros": "Disco Sencillo",
+                    "Frenostraseros": "Tambor",
+                    "Llantadelantera": "110/90-R16",
+                    "Llantatrasera": "130/80-R15"
+                },
+                "dimensionPeso": {
+                    "Largototal":  "2260 mm",
+                    "Anchototal": "1000 mm",
+                    "Altototal": "1180 mm",
+                    "Alturadelasiento": "720 mm",
+                    "Capacidaddecarga": "150 kg",
+                    "Pesoenseco": "141 kg"
+                }
+            }
+        },
+        {
+            "SKU": "34004281",
+            "Modelo": "RC125",
+            "Gusto": "CHOPPER",
+            "Precio": "$27,221.00",
+            "preciodescuento": "$21,999.00",
+            "semanalidad": "$275.00",
+            "img3/4d": "/imagenes/italika/motos/8_RC125/optimizadas/RC125_3_4_der.png",
+            "img3/4i": "/imagenes/italika/motos/8_RC125/optimizadas/RC125_3_4_izq.png",
+            "imgfrentes": "/imagenes/italika/motos/8_RC125/optimizadas/RC125_s.png",
+            "imgfrente": "/imagenes/italika/motos/8_RC125/optimizadas/RC125.png",
+            "Caracteristicas": {
+                "motor": {
+                    "Tipodemotor": "4 Tiempos, monocilíndrico",
+                    "Cilindrada": "124 CC",
+                    "Velocidadmaxima": "95 km/h",
+                    "Potenciamaxima": "11.3 Hp @ 8500 RPM",
+                    "Torquemaximo": "11.60 N-m @ 8500 RPM",
+                    "Rendimientodecombustible": "34 km/L",
+                    "Sistemadearranque": "Eléctrico y de pedal",
+                    "Sistemadeignicion": "CDI (Ignición por descarga de condensador)",
+                    "TransmisionFinal": "Estándar de 5 velocidades/por cadena",
+                    "Capacidaddecombustible": "9.5 L",
+                    "Rendimientodecombustibleportanque": "323 km",
+                    "Capacidaddeaceite": "1 L",
+                    "Tipodeenfriamiento": "Aire forzado"
+                },
+                "chasis": {
+                    "Suspensiondelantera": "Horquilla telescópica",
+                    "Suspensiontrasera": "Basculante doble amortiguador",
+                    "Frenosdelanteros": "Disco Sencillo",
+                    "Frenostraseros": "Tambor",
+                    "Llantadelantera": "2.75-R18",
+                    "Llantatrasera": "3.50-R16"
+                },
+                "dimensionPeso": {
+                    "Largototal": "1975 mm",
+                    "Anchototal": "770 mm",
+                    "Altototal": "1150 mm",
+                    "Alturadelasiento": "750 mm",
+                    "Capacidaddecarga": "150 kg",
+                    "Pesoenseco": "106 kg"
+                }
+            }
+        },
+        {
+            "SKU": "34002537",
+            "Modelo": "ATV250",
+            "Gusto": "CUATRIMOTOS",
+            "Precio": "$84,443.00",
+            "preciodescuento": "$69,999.00",
+            "semanalidad": "$860.00",
+            "video": "https://www.youtube.com/watch?v=JHZnF1dRb8c&feature=emb_logo",
+            "nombre archivo video": "/videos/italika/motos/09_ATV250.mp4",
+            "img3/4d": "/imagenes/italika/motos/9_ATV250/optimizadas/ATV250_3_4_der.png",
+            "img3/4i": "/imagenes/italika/motos/9_ATV250/optimizadas/ATV250_3_4_izq.png",
+            "imgfrentes": "/imagenes/italika/motos/9_ATV250/optimizadas/ATV250_s.png",
+            "imgfrente": "/imagenes/italika/motos/9_ATV250/optimizadas/ATV250.png",
+            "Caracteristicas": {
+                "motor": {
+                    "Tipodemotor": "4 Tiempos, monocilíndrico",
+                    "Cilindrada": "229.6 CC",
+                    "Velocidadmaxima": "80 km/h",
+                    "Potenciamaxima": "14.8 Hp @ 7000 RPM",
+                    "Torquemaximo": "15.5 N-m @ 6000 RPM",
+                    "Rendimientodecombustible": "19 km/L",
+                    "Sistemadearranque": "Eléctrico/Tirón",
+                    "Sistemadeignicion": "CDI (Ignición por descarga de condensador)",
+                    "TransmisionFinal": "Semi-Automática de 5 velocidades c/reversa",
+                    "Capacidaddecombustible": "12 L",
+                    "Rendimientodecombustibleportanque": "228 km",
+                    "Capacidaddeaceite": "1.8 L",
+                    "Tipodeenfriamiento": "Aire forzado y ventiladores"
+                },
+                "chasis": {
+                    "Suspensiondelantera": "Doble amortiguador basculante",
+                    "Suspensiontrasera": "Basculante MonoShock",
+                    "Frenosdelanteros": "Disco Sencillo",
+                    "Frenostraseros": "Disco Sencillo",
+                    "Llantadelantera": "22x7-R10",
+                    "Llantatrasera": "20x10-R10"
+                },
+                "dimensionPeso": {
+                    "Largototal": "1800 mm",
+                    "Anchototal": "1200 mm",
+                    "Altototal": "1000 mm",
+                    "Alturadelasiento": "210 mm",
+                    "Capacidaddecarga": "220 kg",
+                    "Pesoenseco": "156 kg"
+                }
+            }
+        },
+        {
+            "SKU": "34004227",
+            "Modelo": "ATV150",
+            "Gusto": "CUATRIMOTOS",
+            "Precio": "$47,777.00",
+            "preciodescuento": "$37,999.00",
+            "semanalidad": "$478.00",
+            "img3/4d": "/imagenes/italika/motos/10_ATV150/optimizadas/ATV150_3_4_der.png",
+            "img3/4i": "/imagenes/italika/motos/10_ATV150/optimizadas/ATV150_3_4_izq.png",
+            "imgfrentes": "/imagenes/italika/motos/10_ATV150/optimizadas/ATV150_s.png",
+            "imgfrente": "/imagenes/italika/motos/10_ATV150/optimizadas/ATV150.png",
+            "Caracteristicas": {
+                "motor": {
+                    "Tipodemotor": "4 Tiempos, monocilíndrico",
+                    "Cilindrada": "149.6 CC",
+                    "Velocidadmaxima": "45 km/h",
+                    "Potenciamaxima": "7.65 Hp @ 7500 RPM",
+                    "Torquemaximo": "7.5 N-m @ 5500 RPM",
+                    "Rendimientodecombustible": "26.5 km/L",
+                    "Sistemadearranque": "Eléctrico",
+                    "Sistemadeignicion": "CDI (Ignición por descarga de condensador)",
+                    "TransmisionFinal": "Automática/C/Reversa/por banda y cadena",
+                    "Capacidaddecombustible": "7.5 L",
+                    "Rendimientodecombustibleportanque": "189.7 km",
+                    "Capacidaddeaceite": ".9 L",
+                    "Tipodeenfriamiento": "Aire forzado"
+                },
+                "chasis": {
+                    "Suspensiondelantera": "Doble amortiguador basculante",
+                    "Suspensiontrasera": "Basculante Mono Shock",
+                    "Frenosdelanteros": "Tambor",
+                    "Frenostraseros": "Disco Sencillo",
+                    "Llantadelantera": "21x7-R10",
+                    "Llantatrasera": "20x10-R10"
+                },
+                "dimensionPeso": {
+                    "Largototal": "1700 mm",
+                    "Anchototal": "950 mm",
+                    "Altototal": "1120 mm",
+                    "Alturadelasiento": "760 mm",
+                    "Capacidaddecarga": "150 kg",
+                    "Pesoenseco": "150 kg"
+                }
+            }
+        },
+        {
+            "SKU": "34002527",
+            "Modelo": "DM125",
+            "Gusto": "DOBLE PROPOSITO",
+            "Precio": "$33,332.00",
+            "preciodescuento": "$26,999.00",
+            "semanalidad": "$324.00",
+            "video": "https://www.youtube.com/watch?v=dZS6J_MybHA&feature=emb_logo",
+            "nombre archivo video": "/videos/italika/motos/11_DM125.mp4",
+            "img3/4d": "/imagenes/italika/motos/11_DM125/optimizadas/DM125_3_4_der.png",
+            "img3/4i": "/imagenes/italika/motos/11_DM125/optimizadas/DM125_3_4_izq.png",
+            "imgfrentes": "/imagenes/italika/motos/11_DM125/optimizadas/DM125_s.png",
+            "imgfrente": "/imagenes/italika/motos/11_DM125/optimizadas/DM125.png",
+            "Caracteristicas": {
+                "motor": {
+                    "Tipodemotor": "4 Tiempos, monocilíndrico",
+                    "Cilindrada": "124 CC",
+                    "Velocidadmaxima": "80 km/h",
+                    "Potenciamaxima": "9.7 Hp @ 7500 RPM",
+                    "Torquemaximo": "8.6 N-m @ 7500 RPM",
+                    "Rendimientodecombustible": "35 km/L",
+                    "Sistemadearranque": "Eléctrico y de pedal",
+                    "Sistemadeignicion": "CDI (Ignición por descarga de condensador)",
+                    "TransmisionFinal": "Estándar de 5 velocidades/por cadena",
+                    "Capacidaddecombustible": "6L",
+                    "Rendimientodecombustibleportanque": "210 km",
+                    "Capacidaddeaceite": "1 L",
+                    "Tipodeenfriamiento": "Aire forzado"
+                },
+                "chasis": {
+                    "Suspensiondelantera": "Horquilla telescópica",
+                    "Suspensiontrasera": "Basculante Mono Shock",
+                    "Frenosdelanteros": "Disco Sencillo",
+                    "Frenostraseros": "Tambor",
+                    "Llantadelantera": "70/100-R19",
+                    "Llantatrasera": "90/100-R16"
+                },
+                "dimensionPeso": {
+                    "Largototal": "1940 mm",
+                    "Anchototal": "870 mm",
+                    "Altototal": "1070 mm",
+                    "Alturadelasiento": "780 mm",
+                    "Capacidaddecarga": "130 kg",
+                    "Pesoenseco": "109 kg"
+                }
+            }
+        },
+        {
+            "SKU": "34002536",
+            "Modelo": "DM150",
+            "Gusto": "DOBLE PROPOSITO",
+            "Precio": "$34,443.00",
+            "preciodescuento": "$27,999.00",
+            "semanalidad": "$344.00",
+            "video": "https://www.youtube.com/watch?v=dZS6J_MybHA&feature=emb_logo",
+            "nombre archivo video": "/videos/italika/motos/12_ DM150.mp4",
+            "img3/4d": "/imagenes/italika/motos/12_DM150/optimizadas/DM150_3_4_der.png",
+            "img3/4i": "/imagenes/italika/motos/12_DM150/optimizadas/DM150_3_4_izq.png",
+            "imgfrentes": "/imagenes/italika/motos/12_DM150/optimizadas/DM150_s.png",
+            "imgfrente": "/imagenes/italika/motos/12_DM150/optimizadas/DM150.png",
+            "Caracteristicas": {
+                "motor": {
+                    "Tipodemotor": "4 Tiempos, monocilíndrico",
+                    "Cilindrada": "149 CC",
+                    "Velocidadmaxima": "90 km/h",
+                    "Potenciamaxima": "13.2 Hp @ 7500 RPM",
+                    "Torquemaximo": "13.5 N-m @ 5500 RPM",
+                    "Rendimientodecombustible": "27.5 km/L",
+                    "Sistemadearranque": "Eléctrico y de pedal",
+                    "TransmisionFinal": "Estándar de 6 velocidades/por cadena",
+                    "Capacidaddecombustible": "11 L",
+                    "Rendimientodecombustibleportanque": "302.5 km",
+                    "Capacidaddeaceite": "1 L",
+                    "Tipodeenfriamiento": ""
+                },
+                "chasis": {
+                    "Suspensiondelantera": "Horquilla telescópica",
+                    "Suspensiontrasera": "Basculante MonoShock",
+                    "Frenosdelanteros": "Disco Sencillo",
+                    "Frenostraseros": "Tambor",
+                    "Llantadelantera": "90/90-R19",
+                    "Llantatrasera": "110/90-R17"
+                },
+                "dimensionPeso": {
+                    "Largototal": "2045 mm",
+                    "Anchototal": "800 mm",
+                    "Altototal": "1170 mm",
+                    "Alturadelasiento": "830 mm",
+                    "Capacidaddecarga": "150 kg",
+                    "Pesoenseco": "121 kg"
+                }
+            }
+        },
+        {
+            "SKU": "34004256",
+            "Modelo": "DM200",
+            "Gusto": "DOBLE PROPOSITO",
+            "Precio": "$36,666.00",
+            "preciodescuento": "$28,499.00",
+            "semanalidad": "$335.00",
+            "img3/4d": "/imagenes/italika/motos/13_DM200/optimizadas/DM200_3_4_der.png",
+            "img3/4i": "/imagenes/italika/motos/13_DM200/optimizadas/DM200_3_4_izq.png",
+            "imgfrentes": "/imagenes/italika/motos/13_DM200/optimizadas/DM200_s.png",
+            "imgfrente": "/imagenes/italika/motos/13_DM200/optimizadas/DM200.png",
+            "Caracteristicas": {
+                "motor": {
+                    "Tipodemotor": "4 Tiempos, monocilíndrico",
+                    "Cilindrada": "198 CC",
+                    "Velocidadmaxima": "110 km/h",
+                    "Potenciamaxima": "15.5 Hp @ 8500 RPM",
+                    "Torquemaximo": "16 N-m @ 7500 RPM",
+                    "Rendimientodecombustible": "26 km/L",
+                    "Sistemadearranque": "Eléctrico y de pedal",
+                    "Sistemadeignicion": "CDI (Ignición por descarga de condensador)",
+                    "TransmisionFinal": "Estándar de 5 velocidades/por cadena",
+                    "Capacidaddecombustible": "11 L",
+                    "Rendimientodecombustibleportanque": "286 km",
+                    "Capacidaddeaceite": "1 L",
+                    "Tipodeenfriamiento": ""
+                },
+                "chasis": {
+                    "Suspensiondelantera": "Horquilla telescópica",
+                    "Suspensiontrasera": "Basculante MonoShock",
+                    "Frenosdelanteros": "Disco Sencillo",
+                    "Frenostraseros": "Tambor",
+                    "Llantadelantera": "80/100-R17",
+                    "Llantatrasera": "120/80-R18"
+                },
+                "dimensionPeso": {
+                    "Largototal": "2350 mm",
+                    "Anchototal": "820 mm",
+                    "Altototal": "1180 mm",
+                    "Alturadelasiento": "840 mm",
+                    "Capacidaddecarga": "150 kg",
+                    "Pesoenseco": "121 kg"
+                }
+            }
+        },
+        {
+            "SKU": "34004283",
+            "Modelo": "DM250",
+            "Gusto": "DOBLE PROPOSITO",
+            "Precio": "$43,888.00",
+            "preciodescuento": "$35,999.00",
+            "semanalidad": "$490.00",
+            "img3/4d": "/imagenes/italika/motos/14_DM250/optimizadas/DM250_3_4_der.png",
+            "img3/4i": "/imagenes/italika/motos/14_DM250/optimizadas/DM250_3_4_izq.png",
+            "imgfrentes": "/imagenes/italika/motos/14_DM250/optimizadas/DM250_s.png",
+            "imgfrente": "/imagenes/italika/motos/14_DM250/optimizadas/DM250.png",
+            "Caracteristicas": {
+                "motor": {
+                    "Tipodemotor": "4 Tiempos, monocilíndrico",
+                    "Cilindrada": "250 CC",
+                    "Velocidadmaxima": "100 km/h",
+                    "Potenciamaxima": "16.2 Hp @ 8000 RPM",
+                    "Torquemaximo": "16.50 N-m @ 5500 RPM",
+                    "Rendimientodecombustible": "25.5 km/L",
+                    "Sistemadearranque": "Eléctrico y de pedal",
+                    "Sistemadeignicion": "CDI (Ignición por descarga de condensador)",
+                    "TransmisionFinal": "Estándar de 5 velocidades/por cadena",
+                    "Capacidaddecombustible": "11 L",
+                    "Rendimientodecombustibleportanque": "280.5 km",
+                    "Capacidaddeaceite": "1 L",
+                    "Tipodeenfriamiento": "Aire forzado"
+                },
+                "chasis": {
+                    "Suspensiondelantera": "Horquilla telescópica",
+                    "Suspensiontrasera": "Basculante MonoShock",
+                    "Frenosdelanteros": "Disco Sencillo",
+                    "Frenostraseros": "Tambor",
+                    "Llantadelantera": "80-100-R21",
+                    "Llantatrasera": "120-80-R18"
+                },
+                "dimensionPeso": {
+                    "Largototal": "2070 mm",
+                    "Anchototal": "830 mm",
+                    "Altototal": "1190 mm",
+                    "Alturadelasiento": "870 mm",
+                    "Capacidaddecarga": "150 kg",
+                    "Pesoenseco": "123 kg"
+                }
+            }
+        },
+        {
+            "SKU": "34004254",
+            "Modelo": "DS150G",
+            "Gusto": "MOTONETAS",
+            "Precio": "$33,999.00",
+            "preciodescuento": "$26,999.00",
+            "semanalidad": "$346.00",
+            "img3/4d": "/imagenes/italika/motos/15_DS150G/optimizadas/ds150g_3_4_der.png",
+            "img3/4i": "/imagenes/italika/motos/15_DS150G/optimizadas/ds150g_3_4_izq.png",
+            "imgfrentes": "/imagenes/italika/motos/15_DS150G/optimizadas/ds150g_s.png",
+            "imgfrente": "/imagenes/italika/motos/15_DS150G/optimizadas/ds150g.png",
+            "Caracteristicas": {
+                "motor": {
+                    "Tipodemotor": "4 Tiempos, monocilíndrico",
+                    "Cilindrada": "149.6 CC",
+                    "Velocidadmaxima": "80 km/h",
+                    "Potenciamaxima": "8.31 Hp @ 7500 RPM",
+                    "Torquemaximo": "8.8 N-m @ 5500 RPM",
+                    "Rendimientodecombustible": "28km/L",
+                    "Sistemadearranque": "Eléctrico y de pedal",
+                    "Sistemadeignicion": "CDI (Ignición por descarga de condensador)",
+                    "TransmisionFinal": "Estándar de 6 velocidades/por banda",
+                    "Capacidaddecombustible": "6 L",
+                    "Rendimientodecombustibleportanque": "",
+                    "Capacidaddeaceite": ".8 L",
+                    "Tipodeenfriamiento": "Aire forzado"
+                },
+                "chasis": {
+                    "Suspensiondelantera": "Horquilla telescópica",
+                    "Suspensiontrasera": "Basculante doble amortiguador",
+                    "Frenosdelanteros": "Tambor",
+                    "Frenostraseros": "Tambor",
+                    "Llantadelantera": "130/60-R13",
+                    "Llantatrasera": "130/60-R13"
+                },
+                "dimensionPeso": {
+                    "Largototal": "1910 mm",
+                    "Anchototal": "700 mm",
+                    "Altototal": "1150 mm",
+                    "Alturadelasiento": "810 mm",
+                    "Capacidaddecarga": "150 kg",
+                    "Pesoenseco": "112 kg"
+                }
+            }
+        },
+        {
+            "SKU": "34004255",
+            "Modelo": "D150",
+            "Gusto": "MOTONETAS",
+            "Precio": "$25,443.00",
+            "preciodescuento": "$18,999.00",
+            "semanalidad": "$254.00",
+            "img3/4d": "/imagenes/italika/motos/16_D150/optimizadas/d150_3_4_der.png",
+            "img3/4i": "/imagenes/italika/motos/16_D150/optimizadas/d150_3_4_izq.png",
+            "imgfrentes": "/imagenes/italika/motos/16_D150/optimizadas/d150_s.png",
+            "imgfrente": "/imagenes/italika/motos/16_D150/optimizadas/d150.png",
+            "Caracteristicas": {
+                "motor": {
+                    "Tipodemotor": "4 Tiempos, monocilíndrico",
+                    "Cilindrada": "150 CC",
+                    "Velocidadmaxima": "80 km/h",
+                    "Potenciamaxima": "8.31 Hp @ 7500 RPM",
+                    "Torquemaximo": "8.8 N-m @ 5500 RPM",
+                    "Rendimientodecombustible": "29km/L",
+                    "Sistemadearranque": "Eléctrico y de pedal",
+                    "Sistemadeignicion": "CDI (Ignición por descarga de condensador)",
+                    "TransmisionFinal": "Automática/por banda",
+                    "Capacidaddecombustible": "4 L",
+                    "Rendimientodecombustibleportanque": "116 km",
+                    "Capacidaddeaceite": ".8 L",
+                    "Tipodeenfriamiento": "Aire forzado"
+                },
+                "chasis": {
+                    "Suspensiondelantera": "Horquilla telescópica",
+                    "Suspensiontrasera": "Basculante mono amortiguador",
+                    "Frenosdelanteros": "Tambor",
+                    "Frenostraseros": "Tambor",
+                    "Llantadelantera": "3.50-R10",
+                    "Llantatrasera": "3.50-R10"
+                },
+                "dimensionPeso": {
+                    "Largototal": "1750 mm",
+                    "Anchototal": "650 mm",
+                    "Altototal": "1060 mm",
+                    "Alturadelasiento": "750 mm",
+                    "Capacidaddecarga": "120 kg",
+                    "Pesoenseco": "86 kg"
+                }
+            }
+        },
+        {
+            "SKU": "34004261",
+            "Modelo": "DS150 B/R",
+            "Gusto": "MOTONETAS",
+            "Precio": "$29,777.00",
+            "preciodescuento": "$22,499.00",
+            "semanalidad": "$307.00",
+            "img3/4d": "/imagenes/italika/motos/17_DS150/optimizadas/ds150_3_4_der.png",
+            "img3/4i": "/imagenes/italika/motos/17_DS150/optimizadas/ds150_3_4_izq.png",
+            "imgfrentes": "/imagenes/italika/motos/17_DS150/optimizadas/ds150_s.png",
+            "imgfrente": "/imagenes/italika/motos/17_DS150/optimizadas/ds150.png",
+            "Caracteristicas": {
+                "motor": {
+                    "Tipodemotor": "4 Tiempos, monocilíndrico",
+                    "Cilindrada": "149.6 CC",
+                    "Velocidadmaxima": "80 km/h",
+                    "Potenciamaxima": "8.31 Hp @ 7500 RPM",
+                    "Torquemaximo": "8.8 N-m @ 5500 RPM",
+                    "Rendimientodecombustible": "28 km/L",
+                    "Sistemadearranque": "Eléctrico y de pedal",
+                    "Sistemadeignicion": "CDI (Ignición por descarga de condensador)",
+                    "TransmisionFinal": "Automática/por banda",
+                    "Capacidaddecombustible": "6 L",
+                    "Rendimientodecombustibleportanque": "",
+                    "Capacidaddeaceite": "1 L",
+                    "Tipodeenfriamiento": "Aire forzado"
+                },
+                "chasis": {
+                    "Suspensiondelantera": "Horquilla telescópica",
+                    "Suspensiontrasera": "Basculante doble amortiguador",
+                    "Frenosdelanteros": "Tambor",
+                    "Frenostraseros": "Tambor",
+                    "Llantadelantera": "130/60 - R13",
+                    "Llantatrasera": "130/60 - R13"
+                },
+                "dimensionPeso": {
+                    "Largototal": "1970 mm",
+                    "Anchototal": "680 mm",
+                    "Altototal": "1120 mm",
+                    "Alturadelasiento": "650 mm",
+                    "Capacidaddecarga": "150 kg",
+                    "Pesoenseco": "110 kg"
+                }
+            }
+        },
+        {
+            "SKU": "34004262",
+            "Modelo": "D125",
+            "Gusto": "MOTONETAS",
+            "Precio": "$22,221.00",
+            "preciodescuento": "$16,999.00",
+            "semanalidad": "$254.00",
+            "img3/4d": "/imagenes/italika/motos/18_D125/optimizadas/d125_3_4_der.png",
+            "img3/4i": "/imagenes/italika/motos/18_D125/optimizadas/d125_3_4_izq.png",
+            "imgfrentes": "/imagenes/italika/motos/18_D125/optimizadas/d125_s.png",
+            "imgfrente": "/imagenes/italika/motos/18_D125/optimizadas/d125.png",
+            "Caracteristicas": {
+                "motor": {
+                    "Tipodemotor": "4 Tiempos, monocilíndrico",
+                    "Cilindrada": "124.6 CC",
+                    "Velocidadmaxima": "70 km/h",
+                    "Potenciamaxima": "7.94 Hp @ 7500 RPM",
+                    "Torquemaximo": "7.2 N-m @ 5500 RP3023.5 km/L",
+                    "Sistemadearranque": "Eléctrico y de pedal",
+                    "Sistemadeignicion": "",
+                    "TransmisionFinal": "Automática/por banda",
+                    "Capacidaddecombustible": "4.5 L",
+                    "Rendimientodecombustibleportanque": "135 km",
+                    "Capacidaddeaceite": ".8 L",
+                    "Tipodeenfriamiento": "Aire forzado"
+                },
+                "chasis": {
+                    "Suspensiondelantera": "Horquilla telescópica",
+                    "Suspensiontrasera": "Basculante mono amortiguador",
+                    "Frenosdelanteros": "Tambor",
+                    "Frenostraseros": "Tambor",
+                    "Llantadelantera": "3.50 - R10",
+                    "Llantatrasera": "3.50 - R10"
+                },
+                "dimensionPeso": {
+                    "Largototal": "1765 mm",
+                    "Anchototal": "640 mm",
+                    "Altototal": "1110 mm",
+                    "Alturadelasiento": "750 mm",
+                    "Capacidaddecarga": "100 kg",
+                    "Pesoenseco": "77 kg"
+                }
+            }
+        },
+        {
+            "SKU": "34004263",
+            "Modelo": "DS125 V",
+            "Gusto": "MOTONETAS",
+            "Precio": "$23,888.00",
+            "preciodescuento": "$18,999.00",
+            "semanalidad": "$260.00",
+            "img3/4d": "/imagenes/italika/motos/18_D125/optimizadas/d125_3_4_der.png",
+            "img3/4i": "/imagenes/italika/motos/18_D125/optimizadas/d125_3_4_izq.png",
+            "imgfrentes": "/imagenes/italika/motos/18_D125/optimizadas/d125_s.png",
+            "imgfrente": "/imagenes/italika/motos/18_D125/optimizadas/d125.png",
+            "Caracteristicas": {
+                "motor": {
+                    "Tipodemotor": "4 Tiempos, monocilíndrico",
+                    "Cilindrada": "124.6 CC",
+                    "Velocidadmaxima": "70 km/h",
+                    "Potenciamaxima": "7.94 Hp @ 7500 RPM",
+                    "Torquemaximo": "7.2 N-m @ 5500 RPM",
+                    "Rendimientodecombustible": "30 km/L",
+                    "Sistemadearranque": "Eléctrico y de pedal",
+                    "Sistemadeignicion": "",
+                    "TransmisionFinal": "Automática/por banda",
+                    "Capacidaddecombustible": "4.5 L",
+                    "Rendimientodecombustibleportanque": "135 km",
+                    "Capacidaddeaceite": ".8 L",
+                    "Tipodeenfriamiento": "Aire forzado"
+                },
+                "chasis": {
+                    "Suspensiondelantera": "Horquilla telescópica",
+                    "Suspensiontrasera": "Basculante mono amortiguador",
+                    "Frenosdelanteros": "Tambor",
+                    "Frenostraseros": "Tambor",
+                    "Llantadelantera": "3.50 - R10",
+                    "Llantatrasera": "3.50 - R10"
+                },
+                "dimensionPeso": {
+                    "Largototal": "1765 mm",
+                    "Anchototal": "640 mm",
+                    "Altototal": "1110 mm",
+                    "Alturadelasiento": "750 mm",
+                    "Capacidaddecarga": "100 kg",
+                    "Pesoenseco": "77 kg"
+                }
+            }
+        },
+        {
+            "SKU": "34004264",
+            "Modelo": "DS125 N",
+            "Gusto": "MOTONETAS",
+            "Precio": "$23,888.00",
+            "preciodescuento": "$18,999.00",
+            "semanalidad": "$260.00",
+            "img3/4d": "/imagenes/italika/motos/20_DS125/optimizadas/DS125_3_4_der.png",
+            "img3/4i": "/imagenes/italika/motos/20_DS125/optimizadas/DS125_3_4_izq.png",
+            "imgfrentes": "/imagenes/italika/motos/20_DS125/optimizadas/DS125_s.png",
+            "imgfrente": "/imagenes/italika/motos/20_DS125/optimizadas/DS125.png",
+            "Caracteristicas": {
+                "motor": {
+                    "Tipodemotor": "4 Tiempos, monocilíndrico",
+                    "Cilindrada": "124.6 CC",
+                    "Velocidadmaxima": "70 km/h",
+                    "Potenciamaxima": "7.94 Hp @ 7500 RPM",
+                    "Torquemaximo": "7.2 N-m @ 5500 RPM",
+                    "Rendimientodecombustible": "30 km/L",
+                    "Sistemadearranque": "Eléctrico y de pedal",
+                    "Sistemadeignicion": "",
+                    "TransmisionFinal": "Automática/por banda",
+                    "Capacidaddecombustible": "4.5 L",
+                    "Rendimientodecombustibleportanque": "135 km",
+                    "Capacidaddeaceite": ".8 L",
+                    "Tipodeenfriamiento": "Aire forzado"
+                },
+                "chasis": {
+                    "Suspensiondelantera": "Horquilla telescópica",
+                    "Suspensiontrasera": "Basculante mono amortiguador",
+                    "Frenosdelanteros": "Tambor",
+                    "Frenostraseros": "Tambor",
+                    "Llantadelantera": "3.50 - R10",
+                    "Llantatrasera": "3.50 - R10"
+                },
+                "dimensionPeso": {
+                    "Largototal": "1765 mm",
+                    "Anchototal": "640 mm",
+                    "Altototal": "1110 mm",
+                    "Alturadelasiento": "750 mm",
+                    "Capacidaddecarga": "100 kg",
+                    "Pesoenseco": "77 kg"
+                }
+            }
+        },
+        {
+            "SKU": "34004266",
+            "Modelo": "MODENA150 N",
+            "Gusto": "MOTONETAS",
+            "Precio": "$35,554.00",
+            "preciodescuento": "$27,990.00",
+            "semanalidad": "$445.00",
+            "img3/4d": "/imagenes/italika/motos/21_Modena150/optimizadas/modena150_3_4_der.png",
+            "img3/4i": "/imagenes/italika/motos/21_Modena150/optimizadas/modena150_3_4_izq.png",
+            "imgfrentes": "/imagenes/italika/motos/21_Modena150/optimizadas/modena150_s.png",
+            "imgfrente": "/imagenes/italika/motos/21_Modena150/optimizadas/modena150.png",
+            "Caracteristicas": {
+                "motor": {
+                    "Tipodemotor": "4 Tiempos, monocilíndrico",
+                    "Cilindrada": "149.6 CC",
+                    "Velocidadmaxima": "90 km/h",
+                    "Potenciamaxima": "8.6 Hp @ 7500 RPM",
+                    "Torquemaximo": "9 N-m @ 5500 RPM",
+                    "Rendimientodecombustible": "28 km/L",
+                    "Sistemadearranque": "Eléctrico y de pedal",
+                    "Sistemadeignicion": "CDI (Ignición por descarga de condensador)",
+                    "TransmisionFinal": "Automática/por banda",
+                    "Capacidaddecombustible": "6.5 L",
+                    "Rendimientodecombustibleportanque": "182 km",
+                    "Capacidaddeaceite": ".8 L",
+                    "Tipodeenfriamiento": "Aire forzado"
+                },
+                "chasis": {
+                    "Suspensiondelantera": "Horquilla telescópica",
+                    "Suspensiontrasera": "Basculante mono amortiguador",
+                    "Frenosdelanteros": "Disco Sencillo",
+                    "Frenostraseros": "Tambor",
+                    "Llantadelantera": "120/70-12",
+                    "Llantatrasera": "130/70-12"
+                },
+                "dimensionPeso": {
+                    "Largototal": "1850 mm",
+                    "Anchototal": "680 mm",
+                    "Altototal": "1160 mm",
+                    "Alturadelasiento": "780 mm",
+                    "Capacidaddecarga": "150 kg",
+                    "Pesoenseco": "101 kg"
+                }
+            }
+        },
+        {
+            "SKU": "34004267",
+            "Modelo": "WS150 N/A",
+            "Gusto": "MOTONETAS",
+            "Precio": "$32,221.00",
+            "preciodescuento": "$24,899.00",
+            "semanalidad": "$375.00",
+            "img3/4d": "/imagenes/italika/motos/22_WS150A/optimizadas/ws150a_3_4_der.png",
+            "img3/4i": "/imagenes/italika/motos/22_WS150A/optimizadas/ws150a_3_4_izq.png",
+            "imgfrentes": "/imagenes/italika/motos/22_WS150A/optimizadas/ws150a_s.png",
+            "imgfrente": "/imagenes/italika/motos/22_WS150A/optimizadas/ws150a.png",
+            "Caracteristicas": {
+                "motor": {
+                    "Tipodemotor": "4 Tiempos, monocilíndrico",
+                    "Cilindrada": "149.6 CC",
+                    "Velocidadmaxima": "90 km/h",
+                    "Potenciamaxima": "8.6 Hp @ 7500 RPM",
+                    "Torquemaximo": "9 N-m @ 5000 RPM",
+                    "Rendimientodecombustible": "28 km/L",
+                    "Sistemadearranque": "Eléctrico y de pedal",
+                    "Sistemadeignicion": "CDI (Ignición por descarga de condensador)",
+                    "TransmisionFinal": "Automática /por banda",
+                    "Capacidaddecombustible": "5.5 L",
+                    "Rendimientodecombustibleportanque": "154 km",
+                    "Capacidaddeaceite": ".8 L",
+                    "Tipodeenfriamiento": "Aire forzado"
+                },
+                "chasis": {
+                    "Suspensiondelantera": "Horquilla telescópica",
+                    "Suspensiontrasera": "Basculante mono amortiguador",
+                    "Frenosdelanteros": "Disco Sencillo",
+                    "Frenostraseros": "tambor",
+                    "Llantadelantera": "120/90-R10",
+                    "Llantatrasera": "130/90-R10"
+                },
+                "dimensionPeso": {
+                    "Largototal": "1900 mm",
+                    "Anchototal": "700 mm",
+                    "Altototal": "1140 mm",
+                    "Alturadelasiento": "800 mm",
+                    "Capacidaddecarga": "150 kg",
+                    "Pesoenseco": "114 kg"
+                }
+            }
+        },
+        {
+            "SKU": "34004268",
+            "Modelo": "W150",
+            "Gusto": "MOTONETAS",
+            "Precio": "$29,999.00",
+            "preciodescuento": "$23,999.00",
+            "semanalidad": "$295.00",
+            "img3/4d": "/imagenes/italika/motos/23_W150/optimizadas/w150_3_4_der.png",
+            "img3/4i": "/imagenes/italika/motos/23_W150/optimizadas/w150_3_4_izq.png",
+            "imgfrentes": "/imagenes/italika/motos/23_W150/optimizadas/w150_s.png",
+            "imgfrente": "/imagenes/italika/motos/23_W150/optimizadas/w150.png",
+            "Caracteristicas": {
+                "motor": {
+                    "Tipodemotor": "4 Tiempos, monocilíndrico",
+                    "Cilindrada": "149.6 CC",
+                    "Velocidadmaxima": "90 km/h",
+                    "Potenciamaxima": "9.38 Hp @ 8000 RPM",
+                    "Torquemaximo": "9 N-m @ 5500 RPM",
+                    "Rendimientodecombustible": "28 km/L",
+                    "Sistemadearranque": "Eléctrico y de pedal",
+                    "Sistemadeignicion": "",
+                    "TransmisionFinal": "Automática/por banda",
+                    "Capacidaddecombustible": "5.5 L",
+                    "Rendimientodecombustibleportanque": "154 km",
+                    "Capacidaddeaceite": ".8 L",
+                    "Tipodeenfriamiento": ""
+                },
+                "chasis": {
+                    "Suspensiondelantera": "Horquilla telescópica",
+                    "Suspensiontrasera": "Basculante mono amortiguador",
+                    "Frenosdelanteros": "Tambor",
+                    "Frenostraseros": "Tambor",
+                    "Llantadelantera": "120/90-R10",
+                    "Llantatrasera": "130/90-R10"
+                },
+                "dimensionPeso": {
+                    "Largototal": "1895 mm",
+                    "Anchototal": "665 mm",
+                    "Altototal": "1115 mm",
+                    "Alturadelasiento": "820 mm",
+                    "Capacidaddecarga": "150 kg",
+                    "Pesoenseco": "104 kg"
+                }
+            }
+        },
+        {
+            "SKU": "34004273",
+            "Modelo": "MODENA150 A",
+            "Gusto": "MOTONETAS",
+            "Precio": "$35,554.00",
+            "preciodescuento": "$27,990.00",
+            "semanalidad": "$445.00",
+            "img3/4d": "/imagenes/italika/motos/21_Modena150/optimizadas/modena150_3_4_der.png",
+            "img3/4i": "/imagenes/italika/motos/21_Modena150/optimizadas/modena150_3_4_izq.png",
+            "imgfrentes": "/imagenes/italika/motos/21_Modena150/optimizadas/modena150_s.png",
+            "imgfrente": "/imagenes/italika/motos/21_Modena150/optimizadas/modena150.png",
+            "Caracteristicas": {
+                "motor": {
+                    "Tipodemotor": "4 Tiempos, monocilíndrico",
+                    "Cilindrada": "149.6 CC",
+                    "Velocidadmaxima": "90 km/h",
+                    "Potenciamaxima": "8.6 Hp @ 7500 RPM",
+                    "Torquemaximo": "9 N-m @ 5000 RPM",
+                    "Rendimientodecombustible": "28 km/L",
+                    "Sistemadearranque": "Eléctrico y de pedal",
+                    "Sistemadeignicion": "CDI (Ignición por descarga de condensador)",
+                    "TransmisionFinal": "Automática/por banda",
+                    "Capacidaddecombustible": "6.5 L",
+                    "Rendimientodecombustibleportanque": "182 km",
+                    "Capacidaddeaceite": ".8 L",
+                    "Tipodeenfriamiento": "Aire forzado"
+                },
+                "chasis": {
+                    "Suspensiondelantera": "Horquilla telescópica",
+                    "Suspensiontrasera": "Basculante mono amortiguador",
+                    "Frenosdelanteros": "Disco Sencillo",
+                    "Frenostraseros": "Tambor",
+                    "Llantadelantera": "120/70-12",
+                    "Llantatrasera": "130/70-12"
+                },
+                "dimensionPeso": {
+                    "Largototal": "1850 mm",
+                    "Anchototal": "680 mm",
+                    "Altototal": "1160 mm",
+                    "Alturadelasiento": "780 mm",
+                    "Capacidaddecarga": "150 kg",
+                    "Pesoenseco": "101 kg"
+                }
+            }
+        },
+        {
+            "SKU": "34004274",
+            "Modelo": "WS150 B/A",
+            "Gusto": "MOTONETAS",
+            "Precio": "$32,221.00",
+            "preciodescuento": "$24,899.00",
+            "semanalidad": "$375.00",
+            "img3/4d": "/imagenes/italika/motos/25_WS150B/optimizadas/ws150b_3_4_der.png",
+            "img3/4i": "/imagenes/italika/motos/25_WS150B/optimizadas/ws150b_3_4_izq.png",
+            "imgfrentes": "/imagenes/italika/motos/25_WS150B/optimizadas/ws150b_s.png",
+            "imgfrente": "/imagenes/italika/motos/25_WS150B/optimizadas/ws150b.png",
+            "Caracteristicas": {
+                "motor": {
+                    "Tipodemotor": "4 Tiempos, monocilíndrico",
+                    "Cilindrada": "149.6 CC",
+                    "Velocidadmaxima": "90 km/h",
+                    "Potenciamaxima": "8.6 Hp @ 7500 RPM",
+                    "Torquemaximo": "9 N-m @ 5000 RPM",
+                    "Rendimientodecombustible": "28 km/L",
+                    "Sistemadearranque": "Eléctrico y de pedal",
+                    "Sistemadeignicion": "CDI (Ignición por descarga de condensador)",
+                    "TransmisionFinal": "Automática/por banda",
+                    "Capacidaddecombustible": "5.5 L",
+                    "Rendimientodecombustibleportanque": "154 km",
+                    "Capacidaddeaceite": ".8 L",
+                    "Tipodeenfriamiento": "Aire forzado"
+                },
+                "chasis": {
+                    "Suspensiondelantera": "Horquilla telescópica",
+                    "Suspensiontrasera": "Basculante mono amortiguador",
+                    "Frenosdelanteros": "Disco Sencillo",
+                    "Frenostraseros": "Tambor",
+                    "Llantadelantera": "120/90-R10",
+                    "Llantatrasera": "130/90-R10"
+                },
+                "dimensionPeso": {
+                    "Largototal": "1900 mm",
+                    "Anchototal": "700 mm",
+                    "Altototal": "1140 mm",
+                    "Alturadelasiento": "800 mm",
+                    "Capacidaddecarga": "150 kg",
+                    "Pesoenseco": "114 kg"
+                }
+            }
+        },
+        {
+            "SKU": "34004306",
+            "Modelo": "VITALIA150",
+            "Gusto": "MOTONETAS",
+            "Precio": "$33,332.00",
+            "preciodescuento": "$26,999.00",
+            "semanalidad": "$390.00",
+            "nombre archivo video": "/videos/italika/motos/26_VITALIA150.mp4",
+            "img3/4d": "/imagenes/italika/motos/26_Vitalia150/optimizadas/vitalia150_3_4_der.png",
+            "img3/4i": "/imagenes/italika/motos/26_Vitalia150/optimizadas/vitalia150_3_4_izq.png",
+            "imgfrentes": "/imagenes/italika/motos/26_Vitalia150/optimizadas/vitalia150_s.png",
+            "imgfrente": "/imagenes/italika/motos/26_Vitalia150/optimizadas/vitalia150.png",
+            "Caracteristicas": {
+                "motor": {
+                    "Tipodemotor": "4 Tiempos, monocilíndrico",
+                    "Cilindrada": "149 CC",
+                    "Velocidadmaxima": "86 km/h",
+                    "Potenciamaxima": "8.4 Hp @ 7500 RPM",
+                    "Torquemaximo": "8.6 N-m @ 6500 RPM",
+                    "Rendimientodecombustible": "28 km/L",
+                    "Sistemadearranque": "Eléctrico y de pedal",
+                    "Sistemadeignicion": "",
+                    "TransmisionFinal": "Automática/por banda",
+                    "Capacidaddecombustible": "5 L",
+                    "Rendimientodecombustibleportanque": "140 km",
+                    "Capacidaddeaceite": ".8 L",
+                    "Tipodeenfriamiento": ""
+                },
+                "chasis": {
+                    "Suspensiondelantera": "Horquilla telescópica",
+                    "Suspensiontrasera": "Basculante mono amortiguador",
+                    "Frenosdelanteros": "Disco Sencillo",
+                    "Frenostraseros": "Tambor",
+                    "Llantadelantera": "120/70-R12",
+                    "Llantatrasera": "120/70-R12"
+                },
+                "dimensionPeso": {
+                    "Largototal": "1910 mm",
+                    "Anchototal": "655 mm",
+                    "Altototal": "1160 mm",
+                    "Alturadelasiento": "780 mm",
+                    "Capacidaddecarga": "150 kg",
+                    "Pesoenseco": "97 kg"
+                }
+            }
+        },
+        {
+            "SKU": "34002535",
+            "Modelo": "VORT-X200",
+            "Gusto": "NAKED/ DEPORTIVA",
+            "Precio": "$60,554.00",
+            "preciodescuento": "$49,999.00",
+            "semanalidad": "$571.00",
+            "video": "https://www.youtube.com/watch?v=D7HcJ9eDdf0&feature=emb_logo",
+            "nombre archivo video": "/videos/italika/motos/27_VORTX200.mp4",
+            "img3/4d": "/imagenes/italika/motos/27_VORTX200/optimizadas/VORTX200_3_4_der.png",
+            "img3/4i": "/imagenes/italika/motos/27_VORTX200/optimizadas/VORTX200_3_4_izq.png",
+            "imgfrentes": "/imagenes/italika/motos/27_VORTX200/optimizadas/VORTX200_s.png",
+            "imgfrente": "/imagenes/italika/motos/27_VORTX200/optimizadas/VORTX200.png",
+            "Caracteristicas": {
+                "motor": {
+                    "Tipodemotor": "4 Tiempos, monocilíndrico OHC",
+                    "Cilindrada": "190 CC",
+                    "Velocidadmaxima": "125 km/h",
+                    "Potenciamaxima": "20 Hp @ 9000 RPM",
+                    "Torquemaximo": "17 N-m @ 7500 RPM",
+                    "Rendimientodecombustible": "30 km/L",
+                    "Sistemadearranque": "Eléctrico",
+                    "Sistemadeignicion": "CDI (Ignición por descarga de condensador)",
+                    "TransmisionFinal": "Estándar de 5 velocidades/por cadena",
+                    "Capacidaddecombustible": "12.5 L",
+                    "Rendimientodecombustibleportanque": "375 km",
+                    "Capacidaddeaceite": "1 L",
+                    "Tipodeenfriamiento": "Aire forzado"
+                },
+                "chasis": {
+                    "Suspensiondelantera": "Horquilla telescópica",
+                    "Suspensiontrasera": "Basculante MonoShock",
+                    "Frenosdelanteros": "Disco Sencillo",
+                    "Frenostraseros": "Disco Sencillo",
+                    "Llantadelantera": "100/80-R17",
+                    "Llantatrasera": "140/60-R17"
+                },
+                "dimensionPeso": {
+                    "Largototal": "1995 mm",
+                    "Anchototal": "800 mm",
+                    "Altototal": "1080 mm",
+                    "Alturadelasiento": "830 mm",
+                    "Capacidaddecarga": "150 kg",
+                    "Pesoenseco": "148 kg"
+                }
+            }
+        },
+        {
+            "SKU": "34002544",
+            "Modelo": "VORT-X300",
+            "Gusto": "NAKED/ DEPORTIVA",
+            "Precio": "$72,221.00",
+            "preciodescuento": "$59,999.00",
+            "semanalidad": "$673.00",
+            "video": "https://www.youtube.com/watch?v=1n3MRyKnUy0&feature=emb_logo",
+            "nombre archivo video": "/videos/italika/motos/28_VORTX300.mp4",
+            "img3/4d": "/imagenes/italika/motos/28_VORTX300/optimizadas/VORTX300_3_4_der.png",
+            "img3/4i": "/imagenes/italika/motos/28_VORTX300/optimizadas/VORTX300_3_4_izq.png",
+            "imgfrentes": "/imagenes/italika/motos/28_VORTX300/optimizadas/VORTX300_s.png",
+            "imgfrente": "/imagenes/italika/motos/28_VORTX300/optimizadas/VORTX300.png",
+            "Caracteristicas": {
+                "motor": {
+                    "Tipodemotor": "4 Tiempos, monocilíndrico",
+                    "Cilindrada": "292 CC",
+                    "Velocidadmaxima": "135 km/h",
+                    "Potenciamaxima": "26.8 Hp @ 8500 RPM",
+                    "Torquemaximo": "24 N-m @ 7000 RPM",
+                    "Rendimientodecombustible": "24 km/L",
+                    "Sistemadearranque": "Eléctrico",
+                    "Sistemadeignicion": "",
+                    "TransmisionFinal": "Estándar de 6 velocidades/por cadena",
+                    "Capacidaddecombustible": "15 L",
+                    "Rendimientodecombustibleportanque": "360 km",
+                    "Capacidaddeaceite": "1.3 L",
+                    "Tipodeenfriamiento": "Aire forzado"
+                },
+                "chasis": {
+                    "Suspensiondelantera": "Horquilla telescópica",
+                    "Suspensiontrasera": "Basculante MonoShock",
+                    "Frenosdelanteros": "Disco Sencillo",
+                    "Frenostraseros": "Disco Sencillo",
+                    "Llantadelantera": "110/70-R17",
+                    "Llantatrasera": "150/60-R17"
+                },
+                "dimensionPeso": {
+                    "Largototal": "2050 mm",
+                    "Anchototal": "685 mm",
+                    "Altototal": "1075 mm",
+                    "Alturadelasiento": "780 mm",
+                    "Capacidaddecarga": "150 kg",
+                    "Pesoenseco": "140 kg"
+                }
+            }
+        },
+        {
+            "SKU": "34002545",
+            "Modelo": "VORT-X650",
+            "Gusto": "NAKED/ DEPORTIVA",
+            "Precio": "$144,443.00",
+            "preciodescuento": "$113,999.00",
+            "semanalidad": "",
+            "img3/4d": "/imagenes/italika/motos/29_VORTX650/optimizadas/VORTX650_3_4_der.png",
+            "img3/4i": "/imagenes/italika/motos/29_VORTX650/optimizadas/VORTX650_3_4_izq.png",
+            "imgfrentes": "/imagenes/italika/motos/29_VORTX650/optimizadas/VORTX650_s.png",
+            "imgfrente": "/imagenes/italika/motos/29_VORTX650/optimizadas/VORTX650.png",
+            "Caracteristicas": {
+                "motor": {
+                    "Tipodemotor": "4 Tiempos, monocilíndrico 4 válvulas DOHC",
+                    "Cilindrada": "652 CC",
+                    "Velocidadmaxima": "170 km/h",
+                    "Potenciamaxima": "49.6 Hp @ 6500 RPM",
+                    "Torquemaximo": "60 N-m @ 5500 RPM",
+                    "Rendimientodecombustible": "19 km/L",
+                    "Sistemadearranque": "Eléctrico",
+                    "Sistemadeignicion": "EFI",
+                    "TransmisionFinal": "Estándar de 5 velocidades/por cadena",
+                    "Capacidaddecombustible": "13 L",
+                    "Rendimientodecombustibleportanque": "247 km",
+                    "Capacidaddeaceite": "2.3 L",
+                    "Tipodeenfriamiento": "Líquido"
+                },
+                "chasis": {
+                    "Suspensiondelantera": "Horquilla telescópica invertida",
+                    "Suspensiontrasera": "Basculante MonoShock",
+                    "Frenosdelanteros": "Doble Disco",
+                    "Frenostraseros": "Disco Sencillo",
+                    "Llantadelantera": "120/70–R17",
+                    "Llantatrasera": "160/60–R17"
+                },
+                "dimensionPeso": {
+                    "Largototal": "2035 mm",
+                    "Anchototal": "850 mm",
+                    "Altototal": "1050 mm",
+                    "Alturadelasiento": "815 mm",
+                    "Capacidaddecarga": "150 kg",
+                    "Pesoenseco": "168 kg"
+                }
+            }
+        },
+        {
+            "SKU": "34004271",
+            "Modelo": "RT200",
+            "Gusto": "NAKED/ DEPORTIVA",
+            "Precio": "$50,666.00",
+            "preciodescuento": "$39,999.00",
+            "semanalidad": "$500.00",
+            "video": "https://www.youtube.com/watch?v=u5fLpB6kbw8&feature=emb_logo",
+            "nombre archivo video": "/videos/italika/motos/30_RT200.mp4",
+            "img3/4d": "/imagenes/italika/motos/30_RT200/optimizadas/RT200_3_4_der.png",
+            "img3/4i": "/imagenes/italika/motos/30_RT200/optimizadas/RT200_3_4_izq.png",
+            "imgfrentes": "/imagenes/italika/motos/30_RT200/optimizadas/RT200_s.png",
+            "imgfrente": "/imagenes/italika/motos/30_RT200/optimizadas/RT200.png",
+            "Caracteristicas": {
+                "motor": {
+                    "Tipodemotor": "4 Tiempos, monocilíndrico",
+                    "Cilindrada": "200 CC",
+                    "Velocidadmaxima": "116 km/h",
+                    "Potenciamaxima": "14.7 Hp @ 7500 RPM",
+                    "Torquemaximo": "14.02 N-m @ 6000 RPM",
+                    "Rendimientodecombustible": "25 km/L",
+                    "Sistemadearranque": "Eléctrico",
+                    "Sistemadeignicion": "CDI (Ignición por descarga de condensador)",
+                    "TransmisionFinal": "Estándar de 5 velocidades/por cadena",
+                    "Capacidaddecombustible": "16 L",
+                    "Rendimientodecombustibleportanque": "400 km",
+                    "Capacidaddeaceite": "1 L",
+                    "Tipodeenfriamiento": "Aire forzado"
+                },
+                "chasis": {
+                    "Suspensiondelantera": "Horquilla telescópica",
+                    "Suspensiontrasera": "Basculante MonoShock",
+                    "Frenosdelanteros": "Disco Sencillo",
+                    "Frenostraseros": "Disco Sencillo",
+                    "Llantadelantera": "90/80-R17",
+                    "Llantatrasera": "130/70-R17"
+                },
+                "dimensionPeso": {
+                    "Largototal": "1985 mm",
+                    "Anchototal": "812 mm",
+                    "Altototal": "1190 mm",
+                    "Alturadelasiento": "780 mm",
+                    "Capacidaddecarga": "150 kg",
+                    "Pesoenseco": "156 kg"
+                }
+            }
+        },
+        {
+            "SKU": "34004323",
+            "Modelo": "RT250",
+            "Gusto": "NAKED/ DEPORTIVA",
+            "Precio": "$60,554.00",
+            "preciodescuento": "$49,999.00",
+            "semanalidad": "$624.00",
+            "nombre archivo video": "/videos/italika/motos/31_RT250.mp4",
+            "img3/4d": "/imagenes/italika/motos/31_RT250/optimizadas/RT250_3_4_der.png",
+            "img3/4i": "/imagenes/italika/motos/31_RT250/optimizadas/RT250_3_4_izq.png",
+            "imgfrentes": "/imagenes/italika/motos/31_RT250/optimizadas/RT250_s.png",
+            "imgfrente": "/imagenes/italika/motos/31_RT250/optimizadas/RT250.png",
+            "Caracteristicas": {
+                "motor": {
+                    "Tipodemotor": "4 Tiempos, monocilíndrico",
+                    "Cilindrada": "250 CC",
+                    "Velocidadmaxima": "122 km/h",
+                    "Potenciamaxima": "17.3 Hp @ 8500 RPM",
+                    "Torquemaximo": "16.6 N-m @ 7500 RPM",
+                    "Rendimientodecombustible": "23 km/L",
+                    "Sistemadearranque": "Eléctrico",
+                    "Sistemadeignicion": "",
+                    "TransmisionFinal": "Estándar de 6 velocidades/por cadena",
+                    "Capacidaddecombustible": "16 L",
+                    "Rendimientodecombustibleportanque": "368 km",
+                    "Capacidaddeaceite": "1.3 L",
+                    "Tipodeenfriamiento": ""
+                },
+                "chasis": {
+                    "Suspensiondelantera": "Horquilla telescópica",
+                    "Suspensiontrasera": "Basculante MonoShock",
+                    "Frenosdelanteros": "Disco Sencillo",
+                    "Frenostraseros": "Disco Sencillo",
+                    "Llantadelantera": "100/80-R17",
+                    "Llantatrasera": "120/80-R17"
+                },
+                "dimensionPeso": {
+                    "Largototal": "2090 mm",
+                    "Anchototal": "865 mm",
+                    "Altototal": "1205 mm",
+                    "Alturadelasiento": "780 mm",
+                    "Capacidaddecarga": "150 kg",
+                    "Pesoenseco": "156 kg"
+                }
+            }
+        },
+        {
+            "SKU": "34004269",
+            "Modelo": "AT125",
+            "Gusto": "SEMIAUTOMATICAS",
+            "Precio": "$26,110.00",
+            "preciodescuento": "$19,999.00",
+            "semanalidad": "$294.00",
+            "img3/4d": "/imagenes/italika/motos/32_AT125RT/optimizadas/AT125RT_3_4_der.png",
+            "img3/4i": "/imagenes/italika/motos/32_AT125RT/optimizadas/AT125RT_3_4_izq.png",
+            "imgfrentes": "/imagenes/italika/motos/32_AT125RT/optimizadas/AT125RT_s.png",
+            "imgfrente": "/imagenes/italika/motos/32_AT125RT/optimizadas/AT125RT.png",
+            "Caracteristicas": {
+                "motor": {
+                    "Tipodemotor": "4 Tiempos, monocilíndrico",
+                    "Cilindrada": "124 CC",
+                    "Velocidadmaxima": "85 km/h",
+                    "Potenciamaxima": "8.7 Hp @ 7700 RPM",
+                    "Torquemaximo": "9 N-m @ 7000 RPM",
+                    "Rendimientodecombustible": "36 km/L",
+                    "Sistemadearranque": "Eléctrico y de pedal",
+                    "Sistemadeignicion": "CDI (Ignición por descarga de condensador)",
+                    "TransmisionFinal": "Estándar de 4 velocidades/por cadena",
+                    "Capacidaddecombustible": "3.5 L",
+                    "Rendimientodecombustibleportanque": "126 km",
+                    "Capacidaddeaceite": ".9 L",
+                    "Tipodeenfriamiento": "Aire forzado"
+                },
+                "chasis": {
+                    "Suspensiondelantera": "Horquilla telescópica",
+                    "Suspensiontrasera": "Basculante con doble amortiguador",
+                    "Frenosdelanteros": "Disco Sencillo",
+                    "Frenostraseros": "Tambor",
+                    "Llantadelantera": "2.50 - R17",
+                    "Llantatrasera": "12.75 - R17"
+                },
+                "dimensionPeso": {
+                    "Largototal": "1930 mm",
+                    "Anchototal": "690 mm",
+                    "Altototal": "1270 mm",
+                    "Alturadelasiento": "775 mm",
+                    "Capacidaddecarga": "150 kg",
+                    "Pesoenseco": ""
+                }
+            }
+        },
+        {
+            "SKU": "34004275",
+            "Modelo": "AT110RT",
+            "Gusto": "SEMIAUTOMATICAS",
+            "Precio": "$24,443.00",
+            "preciodescuento": "$17,999.00",
+            "semanalidad": "$230.00",
+            "img3/4d": "/imagenes/italika/motos/33_AT110RT/optimizadas/AT110RT_3_4_der.png",
+            "img3/4i": "/imagenes/italika/motos/33_AT110RT/optimizadas/AT110RT_3_4_izq.png",
+            "imgfrentes": "/imagenes/italika/motos/33_AT110RT/optimizadas/AT110RT_s.png",
+            "imgfrente": "/imagenes/italika/motos/33_AT110RT/optimizadas/AT110RT.png",
+            "Caracteristicas": {
+                "motor": {
+                    "Tipodemotor": "4 Tiempos, monocilíndrico",
+                    "Cilindrada": "107 CC",
+                    "Velocidadmaxima": "70 km/h",
+                    "Potenciamaxima": "7.2 Hp @ 8500 RPM",
+                    "Torquemaximo": "6.5 N-m @ 7000 RPM",
+                    "Rendimientodecombustible": "45 km/L",
+                    "Sistemadearranque": "Eléctrico y de pedal",
+                    "Sistemadeignicion": "CDI (Ignición por descarga de condensador)",
+                    "TransmisionFinal": "Estándar de 4 velocidades/por cadena",
+                    "Capacidaddecombustible": "3.2 L",
+                    "Rendimientodecombustibleportanque": "144 km",
+                    "Capacidaddeaceite": ".8 L",
+                    "Tipodeenfriamiento": ""
+                },
+                "chasis": {
+                    "Suspensiondelantera": "Horquilla telescópica",
+                    "Suspensiontrasera": "Basculante doble amortiguador",
+                    "Frenosdelanteros": "Disco Sencillo",
+                    "Frenostraseros": "Tambor",
+                    "Llantadelantera": "2.50 - R17",
+                    "Llantatrasera": "2.75 - R17"
+                },
+                "dimensionPeso": {
+                    "Largototal": "1863 mm",
+                    "Anchototal": "690 mm",
+                    "Altototal": "1094 mm",
+                    "Alturadelasiento": "769 mm",
+                    "Capacidaddecarga": "150 kg",
+                    "Pesoenseco": "87.5 kg"
+                }
+            }
+        },
+        {
+            "SKU": "34004276",
+            "Modelo": "AT110",
+            "Gusto": "SEMIAUTOMATICAS",
+            "Precio": "$22,221.00",
+            "preciodescuento": "$15,999.00",
+            "semanalidad": "$200.00",
+            "img3/4d": "/imagenes/italika/motos/34_ATT110/optimizadas/ATT110_3_4_der.png",
+            "img3/4i": "/imagenes/italika/motos/34_ATT110/optimizadas/ATT110_3_4_izq.png",
+            "imgfrentes": "/imagenes/italika/motos/34_ATT110/optimizadas/ATT110_s.png",
+            "imgfrente": "/imagenes/italika/motos/34_ATT110/optimizadas/ATT110.png",
+            "Caracteristicas": {
+                "motor": {
+                    "Tipodemotor": "4 Tiempos, monocilíndrico",
+                    "Cilindrada": "107 CC",
+                    "Velocidadmaxima": "73 km/h",
+                    "Potenciamaxima": "6.5 Hp @ 8500 RPM",
+                    "Torquemaximo": "6.5 N-m @ 5500 RPM",
+                    "Rendimientodecombustible": "43 km/L",
+                    "Sistemadearranque": "Eléctrico y de pedal",
+                    "Sistemadeignicion": "CDI (Ignición por descarga de condensador)",
+                    "TransmisionFinal": "Estándar de 4 velocidades/por cadena",
+                    "Capacidaddecombustible": "3.5 L",
+                    "Rendimientodecombustibleportanque": "150.5 km",
+                    "Capacidaddeaceite": ".8 L",
+                    "Tipodeenfriamiento": "Aire forzado"
+                },
+                "chasis": {
+                    "Suspensiondelantera": "Horquilla telescópica",
+                    "Suspensiontrasera": "Basculante doble amortiguador",
+                    "Frenosdelanteros": "Tambor",
+                    "Frenostraseros": "Tambor",
+                    "Llantadelantera": "2.50-R17",
+                    "Llantatrasera": "2.75-R17"
+                },
+                "dimensionPeso": {
+                    "Largototal": "1945 mm",
+                    "Anchototal": "670 mm",
+                    "Altototal": "1090 mm",
+                    "Alturadelasiento": "775 mm",
+                    "Capacidaddecarga": "150 kg",
+                    "Pesoenseco": "87 kg"
+                }
+            }
+        },
+        {
+            "SKU": "34001913",
+            "Modelo": "FT125TS",
+            "Gusto": "TRABAJO",
+            "Precio": "$23,888.00",
+            "preciodescuento": "$17,999.00",
+            "semanalidad": "$209.00",
+            "img3/4d": "/imagenes/italika/motos/35_FT125TS/optimizadas/FT125TS_3_4_der.png",
+            "img3/4i": "/imagenes/italika/motos/35_FT125TS/optimizadas/FT125TS_3_4_izq.png",
+            "imgfrentes": "/imagenes/italika/motos/35_FT125TS/optimizadas/FT125TS_s.png",
+            "imgfrente": "/imagenes/italika/motos/35_FT125TS/optimizadas/FT125TS.png",
+            "Caracteristicas": {
+                "motor": {
+                    "Tipodemotor": "4 Tiempos, monocilíndrico",
+                    "Cilindrada": "124 CC",
+                    "Velocidadmaxima": "80 km/h",
+                    "Potenciamaxima": "12 Hp @ 7000 RPM",
+                    "Torquemaximo": "9.5 N-m @ 7500 RPM",
+                    "Rendimientodecombustible": "38 km/L",
+                    "Sistemadearranque": "Eléctrico y de pedal",
+                    "Sistemadeignicion": "",
+                    "TransmisionFinal": "Estándar de 5 velocidades/por cadena",
+                    "Capacidaddecombustible": "12.5 L",
+                    "Rendimientodecombustibleportanque": "475 km",
+                    "Capacidaddeaceite": "1 L",
+                    "Tipodeenfriamiento": ""
+                },
+                "chasis": {
+                    "Suspensiondelantera": "Horquilla telescópica",
+                    "Suspensiontrasera": "Basculante doble amortiguador",
+                    "Frenosdelanteros": "Tambor",
+                    "Frenostraseros": "Tambor",
+                    "Llantadelantera": "12.50 - R18",
+                    "Llantatrasera": "3.00 - R18"
+                },
+                "dimensionPeso": {
+                    "Largototal": "1925 mm",
+                    "Anchototal": "735 mm",
+                    "Altototal": "950 mm",
+                    "Alturadelasiento": "750 mm",
+                    "Capacidaddecarga": "150 kg",
+                    "Pesoenseco": "107 kg"
+                }
+            }
+        },
+        {
+             "SKU": "34002212",
+            "Modelo": "FT250TS",
+            "Gusto": "TRABAJO",
+            "Precio": "$42,777.00",
+            "preciodescuento": "$33,999.00",
+            "semanalidad": "$393.00",
+            "img3/4d": "/imagenes/italika/motos/36_FT250TS/optimizadas/FT250TS_3_4_der.png",
+            "img3/4i": "/imagenes/italika/motos/36_FT250TS/optimizadas/FT250TS_3_4_izq.png",
+            "imgfrentes": "/imagenes/italika/motos/36_FT250TS/optimizadas/FT250TS_s.png",
+            "imgfrente": "/imagenes/italika/motos/36_FT250TS/optimizadas/FT250TS.png",
+            "Caracteristicas": {
+                "motor": {
+                    "Tipodemotor": "4 Tiempos, monocilíndrico",
+                    "Cilindrada": "250 CC",
+                    "Velocidadmaxima": "120 km/h",
+                    "Potenciamaxima": "18 Hp @ 8500 RPM",
+                    "Torquemaximo": "16.6 N-m @ 6500 RPM",
+                    "Rendimientodecombustible": "24 km/L",
+                    "Sistemadearranque": "Eléctrico y de pedal",
+                    "Sistemadeignicion": "",
+                    "TransmisionFinal": "Estándar de  velocidades/por cadena",
+                    "Capacidaddecombustible": "16 L",
+                    "Rendimientodecombustibleportanque": "384 km",
+                    "Capacidaddeaceite": "1.1 L",
+                    "Tipodeenfriamiento": ""
+                },
+                "chasis": {
+                    "Suspensiondelantera": "Horquilla telescópica",
+                    "Suspensiontrasera": "Basculante con doble amortiguador",
+                    "Frenosdelanteros": "Disco Sencillo",
+                    "Frenostraseros": "Tambor",
+                    "Llantadelantera": "80/90-R18",
+                    "Llantatrasera": "110/80-R18"
+                },
+                "dimensionPeso": {
+                    "Largototal": "2100 mm",
+                    "Anchototal": "700 mm",
+                    "Altototal": "1030 mm",
+                    "Alturadelasiento": "770 mm",
+                    "Capacidaddecarga": "150 kg",
+                    "Pesoenseco": "124.5 kg"
+                }
+            }
+        },
+        {
+            "SKU": "34002532",
+            "Modelo": "FT150GTS",
+            "Gusto": "TRABAJO",
+            "Precio": "$27,777.00",
+            "preciodescuento": "$21,499.00",
+            "semanalidad": "$276.00",
+            "img3/4d": "/imagenes/italika/motos/37_FT150GTS/optimizadas/FT150GTS_3_4_der.png",
+            "img3/4i": "/imagenes/italika/motos/37_FT150GTS/optimizadas/FT150GTS_3_4_izq.png",
+            "imgfrentes": "/imagenes/italika/motos/37_FT150GTS/optimizadas/FT150GTS_s.png",
+            "imgfrente": "/imagenes/italika/motos/37_FT150GTS/optimizadas/FT150GTS.png",
+            "Caracteristicas": {
+                "motor": {
+                    "Tipodemotor": "4 Tiempos, monocilíndrico",
+                    "Cilindrada": "149 CC",
+                    "Velocidadmaxima": "90 km/h",
+                    "Potenciamaxima": "14.4 Hp @ 8500 RPM",
+                    "Torquemaximo": "13 N-m @ 7500 RPM",
+                    "Rendimientodecombustible": "30 km/L",
+                    "Sistemadearranque": "Eléctrico y de pedal",
+                    "Sistemadeignicion": "",
+                    "TransmisionFinal": "Estándar de 5 velocidades/por cadena",
+                    "Capacidaddecombustible": "17 L",
+                    "Rendimientodecombustibleportanque": "510 km",
+                    "Capacidaddeaceite": "1 L",
+                    "Tipodeenfriamiento": ""
+                },
+                "chasis": {
+                    "Suspensiondelantera": "Horquilla telescópica",
+                    "Suspensiontrasera": "Basculante con doble amortiguador",
+                    "Frenosdelanteros": "Disco Sencillo",
+                    "Frenostraseros": "Tambor",
+                    "Llantadelantera": "2.75 - R18",
+                    "Llantatrasera": "3.00 - R18"
+                },
+                "dimensionPeso": {
+                    "Largototal": "2060 mm",
+                    "Anchototal": "725 mm",
+                    "Altototal": "1080 mm",
+                    "Alturadelasiento": "784 mm",
+                    "Capacidaddecarga": "150 kg",
+                    "Pesoenseco": "105 kg"
+                }
+            }
+        },
+        {
+            "SKU": "34002533",
+            "Modelo": "FT150G",
+            "Gusto": "TRABAJO",
+            "Precio": "$25,443.00",
+            "preciodescuento": "$19,999.00",
+            "semanalidad": "$295.00",
+            "img3/4d": "/imagenes/italika/motos/37_FT150GTS/optimizadas/FT150GTS_3_4_der.png",
+            "img3/4i": "/imagenes/italika/motos/37_FT150GTS/optimizadas/FT150GTS_3_4_izq.png",
+            "imgfrentes": "/imagenes/italika/motos/37_FT150GTS/optimizadas/FT150GTS_s.png",
+            "imgfrente": "/imagenes/italika/motos/37_FT150GTS/optimizadas/FT150GTS.png",
+            "Caracteristicas": {
+                "motor": {
+                    "Tipodemotor": "4 Tiempos, monocilíndrico",
+                    "Cilindrada": "149 CC",
+                    "Velocidadmaxima": "90 km/h",
+                    "Potenciamaxima": "14.4 Hp @ 8500 RPM",
+                    "Torquemaximo": "13 N-m @ 7500 RPM",
+                    "Rendimientodecombustible": "30 km/L",
+                    "Sistemadearranque": "Eléctrico y de pedal",
+                    "Sistemadeignicion": "",
+                    "TransmisionFinal": "Estándar de 5 velocidades/por cadena",
+                    "Capacidaddecombustible": "14 L",
+                    "Rendimientodecombustibleportanque": "420 km",
+                    "Capacidaddeaceite": "1 L",
+                    "Tipodeenfriamiento": ""
+                },
+                "chasis": {
+                    "Suspensiondelantera": "Horquilla telescópica",
+                    "Suspensiontrasera": "Basculante doble amortiguador",
+                    "Frenosdelanteros": "Tambor",
+                    "Frenostraseros": "Tambor",
+                    "Llantadelantera": "2.75-R18",
+                    "Llantatrasera": "3.00 - R18"
+                },
+                "dimensionPeso": {
+                    "Largototal": "2060 mm",
+                    "Anchototal": "725 mm",
+                    "Altototal": "1080 mm",
+                    "Alturadelasiento": "784 mm",
+                    "Capacidaddecarga": "150 kg",
+                    "Pesoenseco": "112 kg"
+                }
+            }
+        },
+        {
+            "SKU": "34002534",
+            "Modelo": "FT125",
+            "Gusto": "TRABAJO",
+            "Precio": "$19,999.00",
+            "preciodescuento": "$14,999.00",
+            "semanalidad": "$200.00",
+            "img3/4d": "/imagenes/italika/motos/39_FT125/optimizadas/FT125_3_4_der.png",
+            "img3/4i": "/imagenes/italika/motos/39_FT125/optimizadas/FT125_3_4_izq.png",
+            "imgfrentes": "/imagenes/italika/motos/39_FT125/optimizadas/FT125_s.png",
+            "imgfrente": "/imagenes/italika/motos/39_FT125/optimizadas/FT125.png",
+            "Caracteristicas": {
+                "motor": {
+                    "Tipodemotor": "4 Tiempos, monocilíndrico",
+                    "Cilindrada": "124 CC",
+                    "Velocidadmaxima": "80 km/h",
+                    "Potenciamaxima": "12 Hp @ 7000 RPM",
+                    "Torquemaximo": "9.5 N-m @ 7500 RPM",
+                    "Rendimientodecombustible": "38 km/L",
+                    "Sistemadearranque": "Eléctrico y de pedal",
+                    "Sistemadeignicion": "CDI (Ignición por descarga de condensador)",
+                    "TransmisionFinal": "Estándar de 5 velocidades/por cadena",
+                    "Capacidaddecombustible": "9 L",
+                    "Rendimientodecombustibleportanque": "342 km",
+                    "Capacidaddeaceite": "1 L",
+                    "Tipodeenfriamiento": "Aire forzado"
+                },
+                "chasis": {
+                    "Suspensiondelantera": "Horquilla telescópica",
+                    "Suspensiontrasera": "Basculante doble amortiguador",
+                    "Frenosdelanteros": "Tambor",
+                    "Frenostraseros": "Tambor",
+                    "Llantadelantera": "2.50-R17",
+                    "Llantatrasera": "2.75-R17"
+                },
+                "dimensionPeso": {
+                    "Largototal": "1925 mm",
+                    "Anchototal": "735 mm",
+                    "Altototal": "950 mm",
+                    "Alturadelasiento": "750 mm",
+                    "Capacidaddecarga": "150 kg",
+                    "Pesoenseco": "98 kg"
+                }
+            }
+        },
+        {
+            "SKU": "34003371",
+            "Modelo": "FT150",
+            "Gusto": "TRABAJO",
+            "Precio": "$22,221.00",
+            "preciodescuento": "$15,999.00",
+            "semanalidad": "$215.00",
+            "img3/4d": "/imagenes/italika/motos/40_FT150/optimizadas/FT150_3_4_der.png",
+            "img3/4i": "/imagenes/italika/motos/40_FT150/optimizadas/FT150_3_4_izq.png",
+            "imgfrentes": "/imagenes/italika/motos/40_FT150/optimizadas/FT150_s.png",
+            "imgfrente": "/imagenes/italika/motos/40_FT150/optimizadas/FT150.png",
+            "Caracteristicas": {
+                "motor": {
+                    "Tipodemotor": "4 Tiempos, monocilíndrico",
+                    "Cilindrada": "149 CC",
+                    "Velocidadmaxima": "90 km/h",
+                    "Potenciamaxima": "14.4 Hp @ 8500 RPM",
+                    "Torquemaximo": "13 N-m @ 7500 RPM",
+                    "Rendimientodecombustible": "32 km/L",
+                    "Sistemadearranque": "Eléctrico y de pedal",
+                    "Sistemadeignicion": "CDI (Ignición por descarga de condensador)",
+                    "TransmisionFinal": "Estándar de 5 velocidades/por cadena",
+                    "Capacidaddecombustible": "12.5 L",
+                    "Rendimientodecombustibleportanque": "400 km",
+                    "Capacidaddeaceite": "1 L",
+                    "Tipodeenfriamiento": "Aire forzado"
+                },
+                "chasis": {
+                    "Suspensiondelantera": "Horquilla telescópica",
+                    "Suspensiontrasera": "Basculante con doble amortiguador",
+                    "Frenosdelanteros": "Tambor",
+                    "Frenostraseros": "Tambor",
+                    "Llantadelantera": "2.50 - R17",
+                    "Llantatrasera": "2.75 - R17"
+                },
+                "dimensionPeso": {
+                    "Largototal": "1925 mm",
+                    "Anchototal": "735 mm",
+                    "Altototal": "950 mm",
+                    "Alturadelasiento": "750 mm",
+                    "Capacidaddecarga": "150 kg",
+                    "Pesoenseco": "98 kg"
+                }
+            }
+        },
+        {
+            "SKU": "34003372",
+            "Modelo": "200Z",
+            "Gusto": "TRABAJO",
+            "Precio": "$48,443.00",
+            "preciodescuento": "$35,999.00",
+            "semanalidad": "$399.00",
+            "img3/4d": "/imagenes/italika/motos/41_200Z/optimizadas/200Z_3_4_der.png",
+            "img3/4i": "/imagenes/italika/motos/41_200Z/optimizadas/200Z_3_4_izq.png",
+            "imgfrentes": "/imagenes/italika/motos/41_200Z/optimizadas/200Z_s.png",
+            "imgfrente": "/imagenes/italika/motos/41_200Z/optimizadas/200Z.png",
+            "Caracteristicas": {
+                "motor": {
+                    "Tipodemotor": "4 Tiempos, monocilíndrico",
+                    "Cilindrada": "196 CC",
+                    "Velocidadmaxima": "110 km/h",
+                    "Potenciamaxima": "16.4 Hp @ 8000 RPM",
+                    "Torquemaximo": "15 N-m @ 6500 RPM",
+                    "Rendimientodecombustible": "28 km/L",
+                    "Sistemadearranque": "Eléctrico",
+                    "Sistemadeignicion": "CDI (Ignición por descarga de condensador)",
+                    "TransmisionFinal": "Estándar de 5 velocidades/por cadena",
+                    "Capacidaddecombustible": "17 L",
+                    "Rendimientodecombustibleportanque": "476 km",
+                    "Capacidaddeaceite": "1.2 L",
+                    "Tipodeenfriamiento": "Aire forzado"
+                },
+                "chasis": {
+                    "Suspensiondelantera": "Suspensión delantera Horquilla telescópica",
+                    "Suspensiontrasera": "Basculante mono shock",
+                    "Frenosdelanteros": "Disco Sencillo",
+                    "Frenostraseros": "Disco Sencillo",
+                    "Llantadelantera": "80/90-R17",
+                    "Llantatrasera": "120/70-R17"
+                },
+                "dimensionPeso": {
+                    "Largototal": "2010 mm",
+                    "Anchototal": "785 mm",
+                    "Altototal": "1100 mm",
+                    "Alturadelasiento": "780 mm",
+                    "Capacidaddecarga": "150 kg",
+                    "Pesoenseco": "125 kg"
+                }
+            }
+        },
+        {
+            "SKU": "34003374",
+            "Modelo": "FT180TS",
+            "Gusto": "TRABAJO",
+            "Precio": "$35,888.00",
+            "preciodescuento": "$27,999.00",
+            "semanalidad": "$347.00",
+            "img3/4d": "/imagenes/italika/motos/42_FT180/optimizadas/FT180_3_4_der.png",
+            "img3/4i": "/imagenes/italika/motos/42_FT180/optimizadas/FT180_3_4_izq.png",
+            "imgfrentes": "/imagenes/italika/motos/42_FT180/optimizadas/FT180_s.png",
+            "imgfrente": "/imagenes/italika/motos/42_FT180/optimizadas/FT180.png",
+            "Caracteristicas": {
+                "motor": {
+                    "Tipodemotor": "4 Tiempos, monocilíndrico",
+                    "Cilindrada": "175 CC",
+                    "Velocidadmaxima": "105 km/h",
+                    "Potenciamaxima": "15.8 Hp @ 7000 RPM",
+                    "Torquemaximo": "15.64 N-m @ 5500 RPM",
+                    "Rendimientodecombustible": "27 km/L",
+                    "Sistemadearranque": "Eléctrico y de pedal",
+                    "Sistemadeignicion": "CDI (Ignición por descarga de condensador)",
+                    "TransmisionFinal": "Estándar de 5 velocidades/por cadena",
+                    "Capacidaddecombustible": "17 L",
+                    "Rendimientodecombustibleportanque": "459 km",
+                    "Capacidaddeaceite": "1 L",
+                    "Tipodeenfriamiento": "Aire forzado"
+                },
+                "chasis": {
+                    "Suspensiondelantera": "Horquilla telescópica",
+                    "Suspensiontrasera": "Basculante con doble amortiguador",
+                    "Frenosdelanteros": "Disco Sencillo",
+                    "Frenostraseros": "Tambor",
+                    "Llantadelantera": "2.75-R18",
+                    "Llantatrasera": "3.00-R18"
+                },
+                "dimensionPeso": {
+                    "Largototal": "2102 mm",
+                    "Anchototal": "750 mm",
+                    "Altototal": "1070 mm",
+                    "Alturadelasiento": "770 mm",
+                    "Capacidaddecarga": "150 kg",
+                    "Pesoenseco": "118 kg"
+                }
+            }
+        },
+        {
+            "SKU": "34003375",
+            "Modelo": "FT200TS",
+            "Gusto": "TRABAJO",
+            "Precio": "$37,554.00",
+            "preciodescuento": "$28,999.00",
+            "semanalidad": "$360.00",
+            "img3/4d": "/imagenes/italika/motos/43_FT200TS/optimizadas/FT200TS_3_4_der.png",
+            "img3/4i": "/imagenes/italika/motos/43_FT200TS/optimizadas/FT200TS_3_4_izq.png",
+            "imgfrentes": "/imagenes/italika/motos/43_FT200TS/optimizadas/FT200TS_s.png",
+            "imgfrente": "/imagenes/italika/motos/43_FT200TS/optimizadas/FT200TS.png",
+            "Caracteristicas": {
+                "motor": {
+                    "Tipodemotor": "4 Tiempos, monocilíndrico",
+                    "Cilindrada": "196 CC",
+                    "Velocidadmaxima": "110 km/h",
+                    "Potenciamaxima": "17 Hp @ 7000 RPM",
+                    "Torquemaximo": "17 N-m @ 5500 RPM",
+                    "Rendimientodecombustible": "27 km/L",
+                    "Sistemadearranque": "Eléctrico y de pedal",
+                    "Sistemadeignicion": "CDI (Ignición por descarga de condensador)",
+                    "TransmisionFinal": "Estándar de 5 velocidades/por cadena",
+                    "Capacidaddecombustible": "15.5 L",
+                    "Rendimientodecombustibleportanque": "418.5 km",
+                    "Capacidaddeaceite": "1 L",
+                    "Tipodeenfriamiento": "Aire forzado"
+                },
+                "chasis": {
+                    "Suspensiondelantera": "Horquilla telescópica",
+                    "Suspensiontrasera": "Basculante con doble amortiguador",
+                    "Frenosdelanteros": "Disco Sencillo",
+                    "Frenostraseros": "Tambor",
+                    "Llantadelantera": "2.75-R18",
+                    "Llantatrasera": "3.25-R18"
+                },
+                "dimensionPeso": {
+                    "Largototal": "2010 mm",
+                    "Anchototal": "755 mm",
+                    "Altototal": "1060 mm",
+                    "Alturadelasiento": "773 mm",
+                    "Capacidaddecarga": "150 kg",
+                    "Pesoenseco": "122 kg"
+                }
+            }
+            },
+            {
+            "SKU": "34003376",
+            "Modelo": "150Z",
+            "Gusto": "TRABAJO",
+            "Precio": "$38,888.00",
+            "preciodescuento": "$29,999.00",
+            "semanalidad": "$340.00",
+            "video": "https://www.youtube.com/watch?v=MPaJu1D3drA&feature=emb_logo",
+            "nombre archivo video": "/videos/italika/motos/44_150Z.mp4",
+            "img3/4d": "/imagenes/italika/motos/44_150Z/optimizadas/150Z_3_4_der.png",
+            "img3/4i": "/imagenes/italika/motos/44_150Z/optimizadas/150Z_3_4_izq.png",
+            "imgfrentes": "/imagenes/italika/motos/44_150Z/optimizadas/150Z_s.png",
+            "imgfrente": "/imagenes/italika/motos/44_150Z/optimizadas/150Z.png",
+            "Caracteristicas": {
+                "motor": {
+                    "Tipodemotor": "4 Tiempos, monocilíndrico",
+                    "Cilindrada": "150.06 CC",
+                    "Velocidadmaxima": "90 km/h",
+                    "Potenciamaxima": "14 Hp @ 8500 RPM",
+                    "Torquemaximo": "14.35 N-m @ 7500 RPM",
+                    "Rendimientodecombustible": "30 km/L",
+                    "Sistemadearranque": "Eléctrico y de pedal",
+                    "TransmisionFinal": "Estándar de 5 velocidades/por cadena",
+                    "Capacidaddecombustible": "14 L",
+                    "Rendimientodecombustibleportanque": "420 km",
+                    "Capacidaddeaceite": "1 L",
+                    "Tipodeenfriamiento": "Aire forzado"
+                },
+                "chasis": {
+                    "Suspensiondelantera": "Horquilla telescópica",
+                    "Suspensiontrasera": "Basculante mono shock",
+                    "Frenosdelanteros": "Disco Sencillo",
+                    "Frenostraseros": "Tambor",
+                    "Llantadelantera": "80/90-R17",
+                    "Llantatrasera": "120/70-R17"
+                },
+                "dimensionPeso": {
+                    "Largototal": "1990 mm",
+                    "Anchototal": "785 mm",
+                    "Altototal": "1100 mm",
+                    "Alturadelasiento": "770 mm",
+                    "Capacidaddecarga": "150 kg",
+                    "Pesoenseco": "120 kg"
+                }
+            }
+            },
+            {
+            "SKU": "34004021",
+            "Modelo": "FT150TS",
+            "Gusto": "TRABAJO",
+            "Precio": "$25,554.00",
+            "preciodescuento": "$18,999.00",
+            "semanalidad": "$229.00",
+            "img3/4d": "/imagenes/italika/motos/45_FT150TS/optimizadas/FT150TS_3_4_der.png",
+            "img3/4i": "/imagenes/italika/motos/45_FT150TS/optimizadas/FT150TS_3_4_izq.png",
+            "imgfrentes": "/imagenes/italika/motos/45_FT150TS/optimizadas/FT150TS_s.png",
+            "imgfrente": "/imagenes/italika/motos/45_FT150TS/optimizadas/FT150TS.png",
+            "Caracteristicas": {
+                "motor": {
+                    "Tipodemotor": "4 Tiempos, monocilíndrico",
+                    "Cilindrada": "149 CC",
+                    "Velocidadmaxima": "90 km/h",
+                    "Potenciamaxima": "14.4 Hp @ 8500 RPM",
+                    "Torquemaximo": "13 N-m @ 7500 RPM",
+                    "Rendimientodecombustible": "32 km/L",
+                    "Sistemadearranque": "Eléctrico y de pedal",
+                    "TransmisionFinal": "Estándar de 5 velocidades/por cadena",
+                    "Capacidaddecombustible": "13.3 L",
+                    "Rendimientodecombustibleportanque": "425.6 km",
+                    "Capacidaddeaceite": "1 L",
+                    "Tipodeenfriamiento": "Aire forzado"
+                },
+                "chasis": {
+                    "Suspensiondelantera": "Horquilla telescópica",
+                    "Suspensiontrasera": "Basculante doble amortiguador",
+                    "Frenosdelanteros": "Tambor",
+                    "Frenostraseros": "Tambor",
+                    "Llantadelantera": "2.50-R18",
+                    "Llantatrasera": "3.00-R18"
+                },
+                "dimensionPeso": {
+                    "Largototal": "1925 mm",
+                    "Anchototal": "735 mm",
+                    "Altototal": "948 mm",
+                    "Alturadelasiento": "748 mm",
+                    "Capacidaddecarga": "150 kg",
+                    "Pesoenseco": "99 kg"
+                }
+            }
+            },
+            {
+            "SKU": "34004226",
+            "Modelo": "250Z",
+            "Gusto": "TRABAJO",
+            "Precio": "$55,554.00",
+            "preciodescuento": "$42,999.00",
+            "semanalidad": "$480.00",
+            "video": "https://www.youtube.com/watch?v=BdT47xymqIM&feature=emb_logo",
+            "nombre archivo video": "/videos/italika/motos/46_250Z.mp4",
+            "img3/4d": "/imagenes/italika/motos/46_250Z/optimizadas/250Z_3_4_der.png",
+            "img3/4i": "/imagenes/italika/motos/46_250Z/optimizadas/250Z_3_4_izq.png",
+            "imgfrentes": "/imagenes/italika/motos/46_250Z/optimizadas/250Z_s.png",
+            "imgfrente": "/imagenes/italika/motos/46_250Z/optimizadas/250Z.png",
+            "Caracteristicas": {
+                "motor": {
+                    "Tipodemotor": "4 Tiempos, monocilíndrico OHC",
+                    "Cilindrada": "250 CC",
+                    "Velocidadmaxima": "123 km/h",
+                    "Potenciamaxima": "17.9 Hp @ 7000 RPM",
+                    "Torquemaximo": "17.7 N-m @ 6000 RPM",
+                    "Rendimientodecombustible": "23.5 km/L",
+                    "Sistemadearranque": "Eléctrico",
+                    "TransmisionFinal": "Estándar de 6 velocidades/por cadena",
+                    "Capacidaddecombustible": "11 L",
+                    "Rendimientodecombustibleportanque": "258.5 km",
+                    "Capacidaddeaceite": "1.3 L"
+                },
+                "chasis": {
+                    "Suspensiondelantera": "Horquilla telescópica",
+                    "Suspensiontrasera": "Basculante Mono Shock",
+                    "Frenosdelanteros": "Disco Sencillo",
+                    "Frenostraseros": "Disco Sencillo",
+                    "Llantadelantera": "110/70-R17",
+                    "Llantatrasera": "140/60-R17"
+                },
+                "dimensionPeso": {
+                    "Largototal": "2030 mm",
+                    "Anchototal": "800 mm",
+                    "Altototal": "1080 mm",
+                    "Alturadelasiento": "780 mm",
+                    "Capacidaddecarga": "150 kg",
+                    "Pesoenseco": "130 kg"
+                }
+            }
+            },
+            {
+            "SKU": "34004229",
+            "Modelo": "125Z",
+            "Gusto": "TRABAJO",
+            "Precio": "$32,221.00",
+            "preciodescuento": "$22,999.00",
+            "semanalidad": "$289.00",
+            "video": "https://www.youtube.com/watch?v=u2i2zBfJNNI&feature=emb_logo",
+            "nombre archivo video": "/videos/italika/motos/47_125Z.mp4",
+            "img3/4d": "/imagenes/italika/motos/47_125Z/optimizadas/125Z_3_4_der.png",
+            "img3/4i": "/imagenes/italika/motos/47_125Z/optimizadas/125Z_3_4_izq.png",
+            "imgfrentes": "/imagenes/italika/motos/47_125Z/optimizadas/125Z_s.png",
+            "imgfrente": "/imagenes/italika/motos/47_125Z/optimizadas/125Z.png",
+            "Caracteristicas": {
+                "motor": {
+                    "Tipodemotor": "4 Tiempos, monocilíndrico",
+                    "Cilindrada": "124 CC",
+                    "Velocidadmaxima": "90 km/h",
+                    "Potenciamaxima": "108 Hp @ 8500 RPM",
+                    "Torquemaximo": "9.5 N-m @ 7500 RPM",
+                    "Rendimientodecombustible": "34 km/L",
+                    "Sistemadearranque": "Eléctrico y de pedal",
+                    "TransmisionFinal": "Estándar de 5 velocidades/por cadena",
+                    "Capacidaddecombustible": "15.5 L",
+                    "Rendimientodecombustibleportanque": "527 km",
+                    "Capacidaddeaceite": ".9 L"
+                },
+                "chasis": {
+                    "Suspensiondelantera": "Horquilla telescópica",
+                    "Suspensiontrasera": "Basculante doble amortiguador",
+                    "Frenosdelanteros": "Disco Sencillo",
+                    "Frenostraseros": "Tambor",
+                    "Llantadelantera": "2.75-R17",
+                    "Llantatrasera": "90/90-R17"
+                },
+                "dimensionPeso": {
+                    "Largototal": "1935 mm",
+                    "Anchototal": "710 mm",
+                    "Altototal": "1070 mm",
+                    "Alturadelasiento": "770 mm",
+                    "Capacidaddecarga": "150 kg",
+                    "Pesoenseco": "111 kg"
+                }
+            }
+            },
+            {
+            "SKU": "34004307",
+            "Modelo": "FT150HD",
+            "Gusto": "TRABAJO",
+            "Precio": "$33,999.00",
+            "preciodescuento": "$27,499.00",
+            "semanalidad": "$400.00",
+            "img3/4d": "/imagenes/italika/motos/48_FT150HD/optimizadas/FT150HD_3_4_der.png",
+            "img3/4i": "/imagenes/italika/motos/48_FT150HD/optimizadas/FT150HD_3_4_izq.png",
+            "imgfrentes": "/imagenes/italika/motos/48_FT150HD/optimizadas/FT150HD_s.png",
+            "imgfrente": "/imagenes/italika/motos/48_FT150HD/optimizadas/FT150HD.png",
+            "Caracteristicas": {
+                "motor": {
+                    "Tipodemotor": "4 Tiempos, monocilíndrico",
+                    "Cilindrada": "149 CC",
+                    "Velocidadmaxima": "103 km/h",
+                    "Potenciamaxima": "12.6 Hp @ 8500 RPM",
+                    "Torquemaximo": "14.2 N-m @ 8500 RPM",
+                    "Rendimientodecombustible": "448 km/L",
+                    "Sistemadearranque": "Eléctrico y de pedal",
+                    "Sistemadeignicion": "CDI (Ignición por descarga de condensador)",
+                    "TransmisionFinal": "Estándar de 5 velocidades/por cadena",
+                    "Capacidaddecombustible": "14 L",
+                    "Rendimientodecombustibleportanque": "448 km",
+                    "Capacidaddeaceite": "1 L",
+                    "Tipodeenfriamiento": "Aire forzado"
+                },
+                "chasis": {
+                    "Suspensiondelantera": "Horquilla telescópica",
+                    "Suspensiontrasera": "Basculante doble amortiguador",
+                    "Frenosdelanteros": "Disco Sencillo",
+                    "Frenostraseros": "Tambor",
+                    "Llantadelantera": "2.75-R18",
+                    "Llantatrasera": "3/25-R18"
+                },
+                "dimensionPeso": {
+                    "Largototal": "2050 mm",
+                    "Anchototal": "780 mm",
+                    "Altototal": "1090 mm",
+                    "Alturadelasiento": "800 mm",
+                    "Capacidaddecarga": "150 kg",
+                    "Pesoenseco": "117 kg"
+                }
+            }
+        }
+
+    ]
+}

@@ -1,0 +1,404 @@
+<!DOCTYPE html>
+<html lang="es">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta http-equiv="X-UA-Compatible" content="IE=9; IE=8; IE=7; IE=edge" />
+  <title>Cuestionario Italika</title>
+  <meta http-equiv="Expires" content="0">
+  <meta http-equiv="Last-Modified" content="0">
+  <meta http-equiv="Cache-Control" content="no-cache, mustrevalidate">
+  <meta http-equiv="Pragma" content="no-cache">
+  <!--<link rel="stylesheet" href="css/owl.carousel.css">-->
+  <link rel="stylesheet" type="text/css" href="css/estilos.css">
+  <link rel="stylesheet" type="text/css" href="css/animate.css">
+
+
+</head>
+
+<body>
+
+  <div class="page">
+    <div id="video" class="video saltar">
+      <img src="img/cerrarVideo.png" class="cerrarVideo">
+      <video id="reproductorVideo" width="100%" height="100%" controls autoplay="autoplay" muted="muted"
+        style="background: #000;">
+        <source id="rutaVideo" src="" type="video/mp4">
+      </video>
+    </div>
+    <div class="backgroundImageHeader">
+      <div id="cuestionarioHead" class="cuestionarioHead cuestionarioHeadResultado">
+        <div onclick="regresar()" class="divBtnRegresar">
+          <a href="#" class="btnRegresar"><span> &lt; Regresar</span></a>
+        </div>
+        <div onclick="inicio()" class=" btnIrInicio">
+          <a href="#" onclick="inicio()"> <img src="img/SVG/ico_inicio.svg" alt="" />Ir al inicio</a>
+        </div>
+        <div class="textoPregunta">
+          <span>¡Te recomendamos!</span>
+        </div>
+        <div class="divMotocicletaN">
+          <h1 id="tituloMoto" class="TituloModeloItalika"></h1>
+          <div class="copy">
+            <span style="font-weight: bold;">
+              <div id="fraseDiv">Ideal como la primera motocicleta,</div>
+            </span>
+            excelente opción para <span id="lugarExcelente"></span>.
+          </div>
+        </div>
+      </div>
+      <div class="divHeader pRelative">
+        <div class="imgItalika"><img id="imagenSeleccionada" class="animated fadeInDown" src="" alt=""></div>
+        <div class="divQuiero">
+          <div id="btnLoQuiero" class="divBtnQuiero"><a href="#" class="btnQuiero">¡La quiero! <div>Nuestro especialista
+                vendrá <br> asistirte en tu compra</div></a></div>
+          <div id="verVideo" class="verVideo" onclick="reproduce()">
+            <span href="#" id="reproducirVideo"
+              style="font-size: 16px; font-family: 'Avenir_Next_Regular'; color:#FFFFFF"><img
+                src="img/SVG/ico_video.svg" alt="">Ver video</span>
+          </div>
+        </div>
+        <div class="btnMasInfo2 btnFichaTecnica">
+          <a href="#">Ficha técnica</a>
+        </div>
+      </div>
+    </div>
+    <!-- Contenido -->
+    <div class="contSecc  pRelative">
+      <div class="pRelative">
+        <div class="divOnda"></div>
+      </div>
+      <!-- <div class="divMasInformacion ">
+          <div class="textoCopy">
+            <b>Ideal como la primera motocicleta,</b> <br> excelente opción para <span id="lugarExcelente"></span>.
+          </div>
+          <div class="btnMasInfo"><a href="#">Más información</a></div>
+        </div> -->
+      <div class="divCosto">
+        <div id="divPrecio" class="divPrecio">
+          <span id="dePrecio"></span>
+          <div id="precioNuevo" class="textoRojo"><b><span></span></b></div>
+        </div>
+        <div class="divPagosSemanales">
+          <span><b id="pagosSemanales"></b></span><br>
+          <div>Pagando con tu crédito</div>
+          <img src="img/SVG/img_creditoEkt.svg" class="imgCreditoElektra">
+        </div>
+      </div>
+      <div class="divCreditoSemanal">
+        <div class="divPagos">
+          <div>LLÉVATELO HOY CON TU</div>
+          <img src="img/creditoElektra2.svg" class="imgElektra">
+        </div>
+        <div class="divPrecioSemanales">
+          <div><span id="precioSemanal" style="font-size: 66px;">$304.00</span><span> semanales</span></div>
+          <div class="semanalidades">128 semanalidades</div>
+        </div>
+      </div>
+      <img class="" src="img/linea_curva.svg" alt="">
+      <div class="divMasModelos">
+        <h2>También te podría gustar</h2>
+        <div class="divSliderMasModelos">
+          <div class="artModelos">
+            <div id="opc1ModeloDiv">
+              <img id="opc1ModeloImg" src="/imagenes/italika/motos/1_V200/optimizadas/V200.png">
+              <span id="opc1ModeloSpan" class="modelo">SPTFIRE200</span>
+            </div>
+          </div>
+          <div class="artModelos">
+            <div id="opc2ModeloDiv">
+              <img id="opc2ModeloImg" src="/imagenes/italika/motos/1_V200/optimizadas/V200.png">
+              <span id="opc2ModeloSpan" class="modelo">SPTFIRE200</span>
+            </div>
+          </div>
+          <div class="artModelos">
+            <div id="opc3ModeloDiv">
+              <img id="opc3ModeloImg" src="/imagenes/italika/motos/1_V200/optimizadas/V200.png">
+              <span id="opc3ModeloSpan" class="modelo">SPTFIRE200</span>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <!--
+<div id="owl-carousel1" class="owl-carousel owl-theme">
+<div class="item">
+<a href="#"  onclick="redirecciona(1)">
+<img src="img/PNG/slider/img_s1.png">
+<div class="modelo">Vitalia 125 -1</div>
+</a>
+</div>
+ </div>
+-->
+    <!-- Overlay -->
+
+    <div class="overlay overlay2" id="overlay1">
+      <a href="#" class="overlayClose">
+        <img src="img/overlayClose.svg" alt="">
+      </a>
+
+      <div class="tableWrapper">
+
+        <div class="tableHeader">
+          <div class="tableHeaderIco"><img src="img/ico_motor.png" alt=""></div>
+          Motor
+        </div>
+        <table class="overlayTbl">
+          <thead>
+            <tr>
+              <td style=" width: 50%; "></td>
+              <td style=" width: 50%; "></td>
+            </tr>
+          </thead>
+          <tr id="tipoMotor_tr">
+            <td>Tipo de Motor:</td>
+            <td id="tipoMotor">4 Tiempos, monocilindrico</td>
+          </tr>
+          <tr id="cilindrada_tr">
+            <td>Cilindrada:</td>
+            <td id="cilindrada">149 CC</td>
+          </tr>
+          <tr id="velocidad_max_tr">
+            <td>Velocidad máxima:</td>
+            <td id="velocidad_max">86 km/h1P</td>
+          </tr>
+          <tr id="potencia_max_tr">
+            <td>Potencia maxima:</td>
+            <td id="potencia_max">8.4 Hp @ 7500 RPM</td>
+          </tr>
+          <tr id="torque_max_tr">
+            <td>Torque máximo:</td>
+            <td id="torque_max">8.6 N-m @6500 RPM</td>
+          </tr>
+          <tr id="sistema_arranque_tr">
+            <td>Sistema de arranque:</td>
+            <td id="sistema_arranque">Eléctrico y de pedal</td>
+          </tr>
+          <tr id="sistema_ignicion_tr">
+            <td>Sistema de ignición:</td>
+            <td id="sistema_ignicion">CDI (Ignición por descarga de condensador)</td>
+          </tr>
+          <tr id="transmision_tr">
+            <td>Transmisión:</td>
+            <td id="transmision">Automática / por banda</td>
+          </tr>
+          <tr id="rendimiento_combustible_tr">
+            <td>Rendimiento de combustible:</td>
+            <td id="rendimiento_combustible">28 km/L</td>
+          </tr>
+          <tr id="capacidad_aceite_motor_tr">
+            <td>Capacidad de aceite de motor:</td>
+            <td id="capacidad_aceite_motor">.8 L</td>
+          </tr>
+          <tr id="recorre_tanque_tr">
+            <td>Recorre con un tanque hasta:</td>
+            <td id="recorre_tanque">140 km</td>
+          </tr>
+          <tr id="capacidad_combustible_tr">
+            <td>Capacidad de comustible:</td>
+            <td id="capacidad_combustible">5L</td>
+          </tr>
+          <tr id="cambios_tr">
+            <td>Cambios:</td>
+            <td id="cambios">5L</td>
+          </tr>
+          <tr id="autonomia_tr">
+            <td>Autonomía:</td>
+            <td id="autonomia">5L</td>
+          </tr>
+          <tr id="tiempo_carga_tr">
+            <td>Tiempo de recarga(110v):</td>
+            <td id="tiempo_carga">5L</td>
+          </tr>
+          <tr id="tipo_bateria_tr">
+            <td>Tipo de batería:</td>
+            <td id="tipo_bateria">5L</td>
+          </tr>
+          <tr id="capacidad_ah_tr">
+            <td>Capacidad Ah:</td>
+            <td id="capacidad_ah">5L</td>
+          </tr>
+        </table>
+
+        <div class="tableHeader">
+          <div class="tableHeaderIco"><img src="img/ico_chasis.png" alt=""></div>
+          Chasis
+        </div>
+        <table class="overlayTbl">
+          <thead>
+            <tr>
+              <td style=" width: 50%; "></td>
+              <td style=" width: 50%; "></td>
+            </tr>
+          </thead>
+          </thead>
+          <tr id="suspencion_delantera_tr">
+            <td>Suspención delantera:</td>
+            <td id="suspencion_delantera">Horquilla telescópica</td>
+          </tr>
+          <tr id="suspencion_trasera_tr">
+            <td>Suspención trasera:</td>
+            <td id="suspencion_trasera">Basculante mono amortiguador</td>
+          </tr>
+          <tr id="frenos_delanteros_tr">
+            <td>Frenos delanteros:</td>
+            <td id="frenos_delanteros">Disco Sencillo</td>
+          </tr>
+          <tr id="frenos_traseros_tr">
+            <td>Frenos traseros:</td>
+            <td id="frenos_traseros">Tambor</td>
+          </tr>
+          <tr id="rodada_tr">
+            <td>Rodada:</td>
+            <td id="rodada">Tambor</td>
+          </tr>
+          <tr id="rin_tr">
+            <td>Rodada:</td>
+            <td id="rin">Tambor</td>
+          </tr>
+        </table>
+
+        <div class="tableHeader">
+          <div class="tableHeaderIco"><img src="img/ico_dimensiones.png" alt=""></div>
+          DIMESIONES / PESO
+        </div>
+        <table class="overlayTbl">
+          <thead>
+            <tr>
+              <td style=" width: 50%; "></td>
+              <td style=" width: 50%; "></td>
+            </tr>
+          </thead>
+          <tr id="largo_total_tr">
+            <td>Largo total:</td>
+            <td id="largo_total">1910 mm</td>
+          </tr>
+          <tr id="ancho_total_tr">
+            <td>Ancho total:</td>
+            <td id="ancho_total">655 mm</td>
+          </tr>
+          <tr id="alto_total_tr">
+            <td>Alto total:</td>
+            <td id="alto_total">1910 mm</td>
+          </tr>
+          <tr id="altura_asiento_tr">
+            <td>Altura asiento:</td>
+            <td id="altura_asiento">1910 mm</td>
+          </tr>
+          <tr id="capacidad_carga_tr">
+            <td>Capacidad de carga:</td>
+            <td id="capacidad_carga">1910 Kg</td>
+          </tr>
+          <tr id="llanta_delantera_tr">
+            <td>Llanta delantera:</td>
+            <td id="llanta_delantera">120/70 - R12</td>
+          </tr>
+          <tr id="llanta_trasera_tr">
+            <td>Llanta delantera:</td>
+            <td id="llanta_trasera">120/70 - R12</td>
+          </tr>
+          <tr id="peso_total_tr">
+            <td>Llanta delantera:</td>
+            <td id="peso_total">120/70 - R12</td>
+          </tr>
+          <tr id="distancia_entre_eje_tr">
+            <td>Distancia entre ejes:</td>
+            <td id="distancia_entre_eje">120/70 - R12</td>
+          </tr>
+        </table>
+
+
+
+      </div>
+
+      <img class="lineaCurva" src="img/linea_curva.svg" alt="">
+      <div class="motosFlex">
+        <img id="imgFlexIzq" src="img/PNG/vitalia150_3_4_izq.png" alt="">
+        <img id="imgFlexFren" src="img/PNG/vitalia150_frente.png">
+        <img id="imgFlexDer" src="img/PNG/vitalia150_3_4_der.png" alt="">
+      </div>
+
+    </div>
+
+    <div class="overlay" id="overlay2">
+      <a href="#" class="overlayClose">
+        <img src="img/overlayClose.svg" alt="">
+      </a>
+
+      <div class="especialista">
+        <!--
+    <div class="especialistaCopy">
+      <b>¡Hola!</b> nuestro especialista está en camino para asesorarte y te buscará en <b>2</b> minutos.
+      <br>
+      <br>Quédate por aquí.
+    </div>
+-->
+        <div class="especialista">
+          <div class="wrapperInfoEspecialista">
+            <div class="infoEspecialista">
+              <div class="half">
+                <div class="especialistaCopy">
+                  <b>¡Hola!</b> nuestro especialista está en camino para asesorarte y te buscará en <b>2</b> minutos.
+                  <br>
+                  <br>Quédate por aquí.
+                </div>
+              </div>
+            </div>
+          </div>
+          <!--
+<div class="wrapperInfoEspecialista">
+<div class="infoEspecialista">
+<div class="half">
+<img class="fotoEspecialista" src="img/asistente.jpg">
+</div>
+<div class="half">
+<img class="logoItalika" src="img/img_logoItalika.svg">
+<div class='especialistaNombre'><b>Juan Hdz.</b></div>
+<div class='especialistaCargo'>Especialista <br>Italika</div>
+</div>
+</div>
+</div>
+-->
+          <div class="bloque bloque2">
+            <img src="img/gif_moto_loading_1.gif" alt="">
+            <div>Espera un poco...</div>
+          </div>
+
+          <div class="lineaCurva"><img src="img/linea_curva.svg" alt=""></div>
+          <div class="motosFlex">
+            <img id="imgFlexIzq2" src="img/PNG/vitalia150_3_4_izq.png" alt="">
+            <img id="imgFlexFren2" src="img/PNG/vitalia150_frente.png">
+            <img id="imgFlexDer2" src="img/PNG/vitalia150_3_4_der.png" alt="">
+          </div>
+
+        </div>
+
+        <!--Overlay loading-->
+        <div id="overLoading" class="overlayLoading">
+          <img src="img/loadingItalika.svg" alt="">
+        </div>
+
+        <!-- Fin conSecc -->
+        <div class="footer">
+          <div class="copyFooter">#ElMotorDeTuVida</div>
+        </div>
+      </div>
+      <!-- Fin page -->
+
+</body>
+<div id="overLoading2" class="overlayLoading2">
+  <img src="img/gif_moto_loading_1.gif" alt="">
+</div>
+
+</html>
+
+<script type="text/javascript" src="js/jquery-1.12.4.min.js"></script>
+
+<script type="text/javascript" src="js/jquery-ui.js"></script>
+<script src="js/jquery.simplemodal.js"></script>
+
+<!-- Slider 
+<script src="js/owl.carousel.js"></script>-->
+
+<script src="js/resultado.js"></script>
